@@ -63,7 +63,7 @@
 *React • Vanilla JavaScript • CSS3*
 - Interactive memory training game with multiple themes
 - Implements game logic, state management, and responsive design
-- **[Live Demo](https://olgagulyakevich.github.io/project-name/)** | **[Source Code](https://github.com/OlgaGulyakevich/project-name)**
+- **[Live Demo](https://olgagulyakevich.github.io/memory-game/)** | **[Source Code](https://github.com/OlgaGulyakevich/memory-game)**
 
 
 ### 🎨 Frontend Portfolio
