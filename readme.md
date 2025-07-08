@@ -17,6 +17,7 @@
 
 ### Styling & Design
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?style=flat&logo=bem&logoColor=white)
 ![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=flat&logo=css3&logoColor=white)
 ![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=flat&logo=css3&logoColor=white)
@@ -25,6 +26,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -74,18 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Olga's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlgaGulyakevich&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎨 Design & UX Philosophy
 
 > *"Great design is not just what it looks like — it's how it works"*
@@ -94,14 +84,6 @@
 - **Accessibility First:** Building for everyone, including users with disabilities  
 - **Performance Matters:** Beautiful designs that load fast and work smoothly
 - **Responsive Everything:** Seamless experience across all devices
-
----
-
-## 🌱 What I'm Working On
-
-- 🔭 **Current Project:** Building a task management app with React & TypeScript
-- 🌟 **Next Challenge:** Contributing to open-source React projects
-- 🎯 **Goal:** Complete 100 Days of Code challenge
 
 ---
 
@@ -116,17 +98,8 @@ I'm actively seeking opportunities to:
 ### 📬 Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-olga.gulyakevi4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:olga.gulyakevi4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gulyakevich-ab166674/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
-
----
-
-## 💭 Fun Facts
-
-- 🎨 **Design Background:** I approach coding with a designer's eye for detail
-- 🌍 **Language Learner:** Passionate about both programming and human languages
-- 🧩 **Problem Solver:** Love breaking down complex challenges into manageable pieces
-- ☕ **Coffee Enthusiast:** Best code is written with a good cup of coffee
 
 ---
 
