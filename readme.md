@@ -50,8 +50,8 @@
 - **Full-Stack Foundation:** Next.js, Node.js, PHP
 
 **📚 Education Path:**
-- HTML Academy - React Development & Advanced JavaScript
-- CodeAcademy Front-End Engineer Path
+- **HTML Academy** - React Development & Advanced JavaScript
+- **CodeAcademy** - Front-End Engineer Path
 - Personal projects with modern React patterns
 - Continuous learning through documentation and practice
 
