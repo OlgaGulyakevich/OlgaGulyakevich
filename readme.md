@@ -52,8 +52,8 @@
 **📚 Education Path:**
 - **HTML Academy** - React Development & Advanced JavaScript
 - **CodeAcademy** - Front-End Engineer Path
-- Personal projects with modern React patterns
-- Continuous learning through documentation and practice
+- **Personal projects** with modern React patterns
+- **Continuous learning** through documentation and practice
 
 **🎯 2026 Goal:** Land my first frontend developer position
 
