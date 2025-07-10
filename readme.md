@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Styling & Design
@@ -28,9 +29,20 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
 
-### Tools & Workflow
+### Testing & Quality Assurance
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)
+
+### Deployment & DevOps
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
+
+### Design & Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command_Line-000000?style=flat&logo=terminal&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ### Currently Learning
@@ -38,22 +50,27 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat&logo=google&logoColor=white)
+
 
 ---
 
 ## 🚀 Learning Journey
 
 **🎓 Current Focus (2025):**
-- **Advanced React:** Custom Hooks, Performance Optimization, Context API patterns
-- **TypeScript Integration:** Type-safe React development
-- **Modern State Management:** Context API, React Query, Zustand
-- **Full-Stack Foundation:** Next.js, Node.js, PHP
+- **CodeAcademy Front-End Engineer Path:** React, Redux, Jest, Deployment workflows
+- **Advanced React Patterns:** Custom Hooks, Performance Optimization, Context API
+- **TypeScript Integration:** Type-safe React development and component libraries
+- **Modern State Management:** Redux Toolkit, React Query, Context API patterns
+- **Testing & Quality:** Jest, React Testing Library, Test-Driven Development
+- **Production Workflow:** Git collaboration, Netlify deployment, SEO optimization
 
 **📚 Education Path:**
-- **HTML Academy** - React Development & Advanced JavaScript
-- **CodeAcademy** - Front-End Engineer Path
-- **Personal projects** with modern React patterns
-- **Continuous learning** through documentation and practice
+- **CodeAcademy Front-End Engineer Path** (In Progress) - React, Redux, Testing, Deployment
+- **HTML Academy** (Completed) - React Development & Advanced JavaScript  
+- **Industry Best Practices:** Modern development workflows and production-ready code
+- **Hands-on Projects:** Building scalable applications with comprehensive testing
+- 
 
 **🎯 2026 Goal:** Land my first frontend developer position
 
