@@ -70,7 +70,7 @@
 - **HTML Academy** (Completed) - React Development & Advanced JavaScript  
 - **Industry Best Practices:** Modern development workflows and production-ready code
 - **Hands-on Projects:** Building scalable applications with comprehensive testing
-- 
+  
 
 **🎯 2026 Goal:** Land my first frontend developer position
 
