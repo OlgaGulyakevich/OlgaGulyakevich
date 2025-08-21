@@ -50,6 +50,11 @@
 ![Command Line](https://img.shields.io/badge/Command_Line-000000?style=flat&logo=terminal&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
+## Additional Skills
+- **API Integration:** Chatbot APIs, third-party services
+- **User Experience:** Implementing conversational interfaces
+- **Automation:** Connecting frontend with external tools
+
 ### Currently Learning
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
