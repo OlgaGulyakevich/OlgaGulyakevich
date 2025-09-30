@@ -13,104 +13,135 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Styling & Design
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=flat&logo=bem&logoColor=white)
 ![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=flat&logo=css3&logoColor=white)
 ![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=flat&logo=css3&logoColor=white)
 
-### Build Tools & Preprocessors
+### Build Tools
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Less](https://img.shields.io/badge/Less-1D365D?style=flat&logo=less&logoColor=white)
 
-### Testing & Quality Assurance
+### Testing & Quality
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)
-
-### Performance monitoring
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)
-![Web Vitals](https://img.shields.io/badge/Web_Vitals-4285F4?style=flat&logo=google&logoColor=white)
 
-### Deployment & DevOps
+### Deployment & Tools
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
-
-### Design & Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Command Line](https://img.shields.io/badge/Command_Line-000000?style=flat&logo=terminal&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
-
-## Additional Skills
-- **API Integration:** Chatbot APIs, third-party services
-- **User Experience:** Implementing conversational interfaces
-- **Automation:** Connecting frontend with external tools
 
 ### Currently Learning
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat&logo=google&logoColor=white)
 
+---
+
+## 💡 Additional Skills
+
+### **Modern Web Development**
+- **React Ecosystem:** Router, Hooks, Context API, Performance optimization
+- **Internationalization (i18n):** Multi-language support with react-i18next
+- **SEO & Performance:** Meta tags, Core Web Vitals, Lighthouse optimization
+
+### **Integration & Workflow**
+- **API Integration:** REST APIs, third-party services, webhooks
+- **Accessibility:** WCAG AA compliance, semantic HTML, keyboard navigation
+- **CI/CD:** Automated deployment workflows, GitHub Actions
 
 ---
 
 ## 🚀 Learning Journey
 
 **🎓 Current Focus (2025):**
-- **CodeAcademy Front-End Engineer Path:** React, Redux, Jest, Deployment workflows
-- **Advanced React Patterns:** Custom Hooks, Performance Optimization, Context API
-- **TypeScript Integration:** Type-safe React development and component libraries
-- **Modern State Management:** Redux Toolkit, React Query, Context API patterns
-- **Testing & Quality:** Jest, React Testing Library, Test-Driven Development
-- **Production Workflow:** Git collaboration, Netlify deployment, SEO optimization
+- **Advanced React Architecture:** Design patterns, client application architecture, complex state management
+- **Modern Styling & Animation:** Tailwind CSS, advanced CSS animations, micro-interactions
+- **Full-Stack Fundamentals:** Algorithms, data structures, web security, Headless CMS integration
+- **Design for Developers:** UI/UX principles, design systems, Figma-to-code workflows
 
-**📚 Education Path:**
+**📚 Education & Experience:**
 - **CodeAcademy Front-End Engineer Path** (In Progress) - React, Redux, Testing, Deployment
-- **HTML Academy** (Completed) - React Development & Advanced JavaScript  
-- **Industry Best Practices:** Modern development workflows and production-ready code
-- **Hands-on Projects:** Building scalable applications with comprehensive testing
-  
+- **HTML Academy** (Completed) - React Development & Advanced JavaScript
+- **Web Studio Internship** (Starting October 2025) - Production experience with real client projects
+- **Freelance Projects:** Building portfolios, SMB websites, e-commerce solutions, and trackers
 
-**🎯 2026 Goal:** Land my first frontend developer position
+**🎯 Roadmap 2025-2026:**
+- 🔄 Master advanced React patterns and architectural approaches
+- 🛠️ Complete 5+ production-ready client projects (portfolios, e-commerce, calorie tracker)
+- 🎨 Develop strong design implementation skills with modern tools
+- 🏢 Gain hands-on experience through web studio internship
+- 💼 **Goal:** Secure frontend developer position by mid-2026
 
 ---
 
 ## 🛠️ Featured Projects
 
 ### 🧠 Memory Game
-*React • Vanilla JavaScript • CSS3*
-- Interactive memory training game with multiple themes
-- Implements game logic, state management, and responsive design
-- **[Live Demo](https://olgagulyakevich.github.io/memory-game/)** | **[Source Code](https://github.com/OlgaGulyakevich/memory-game)**
+*React 19 • React Router • Webpack 5 • i18n (EN/FR/RU)*
 
+**Professional memory training application with production-ready architecture:**
 
-### 🎨 Frontend Portfolio
-*HTML5 • CSS3 • JavaScript • React*
-- Modern web applications with responsive design
-- Focus on user experience and performance
- **[Coming Soon]** - *Currently developing portfolio collection*
+**Core Features:**
+- 3 themed card sets with smooth 3D CSS flip animations
+- Multilingual interface with react-i18next (English, French, Russian)
+- React Router SPA with optimized client-side navigation
+- Mobile-first responsive design with accessibility focus
+
+**Technical Implementation:**
+- Custom Webpack configuration with code splitting and bundle optimization
+- React hooks architecture for clean, maintainable game logic
+- Memoized components for optimal render performance
+- Hardware-accelerated CSS animations (60fps+)
+- Comprehensive manual testing and performance benchmarks
+
+**Quality Metrics:**
+- Lighthouse Performance: 95+/100
+- WCAG AA accessibility compliant
+- Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
+- Mobile-optimized (iOS Safari, Chrome Mobile)
+
+**[Live Demo](https://olgagulyakevich.github.io/memory-game/)** • **[Source Code](https://github.com/OlgaGulyakevich/memory-game)** • **[Documentation](https://github.com/OlgaGulyakevich/memory-game#-tech-stack--architecture)**
 
 ---
 
-## 🎨 Design & UX Philosophy
+### 🌐 Personal Portfolio (In Development)
+*Next.js • TypeScript • Tailwind CSS • Headless CMS*
+- Modern portfolio with advanced animations and design system
+- SEO-optimized with server-side rendering and static generation
+- Integrated blog powered by Headless CMS
+- **Expected:** Q4 2025
+
+---
+
+### 📋 Upcoming Projects Pipeline
+- **UGC Creator Portfolio** - Next.js, Airtable API, Stripe integration
+- **E-commerce Platform** - React, Redux Toolkit, payment processing
+- **Calorie Tracker** - React, TypeScript, data visualization with charts
+- **SMB Websites** - Client projects with modern CMS solutions
+
+---
+
+## 🎨 Design & Development Philosophy
 
 > *"Great design is not just what it looks like — it's how it works"*
 
-- **User-Centered Approach:** Every interface decision starts with user needs
-- **Accessibility First:** Building for everyone, including users with disabilities  
-- **Performance Matters:** Beautiful designs that load fast and work smoothly
-- **Responsive Everything:** Seamless experience across all devices
+- **Design-to-Code Workflow:** Transforming Figma prototypes into pixel-perfect, production-ready components
+- **CSS Architecture:** Clean, maintainable stylesheets using BEM methodology and modern CSS features
+- **User-Centered Approach:** Every interface decision prioritizes user needs and accessibility
+- **Performance-First:** Beautiful designs optimized for fast loading and smooth interactions
+- **Responsive Everything:** Seamless experiences across all devices and screen sizes
 
 ---
 
@@ -119,8 +150,11 @@
 I'm actively seeking opportunities to:
 - 💡 **Collaborate** on frontend projects and open-source contributions
 - 🎯 **Learn** from experienced developers through mentorship
-- 🚀 **Build** innovative web applications that solve real problems
+- 🚀 **Build** production-ready applications that solve real business problems
 - 🌟 **Network** with the developer community
+- 🏢 **Contribute** to team projects in a professional environment
+
+---
 
 ### 📬 Get In Touch
 
