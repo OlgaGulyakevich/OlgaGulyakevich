@@ -1,147 +1,271 @@
 # 👋 Hi, I'm Olga Gulyakevich
 
-## 🎯 Frontend Developer in Progress | UX/UI Enthusiast
+## 🎯 Frontend Developer | Building Production-Ready React Applications
 
-> Transforming ideas into interactive, user-friendly web experiences
+> Transforming designs into accessible, performant web experiences with modern frontend technologies
 
----
-
-## 💻 Tech Stack & Skills
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### Styling & Design
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![BEM](https://img.shields.io/badge/BEM-000000?style=flat&logo=bem&logoColor=white)
-![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=flat&logo=css3&logoColor=white)
-![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat&logo=css3&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=flat&logo=css3&logoColor=white)
-
-### Build Tools
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=flat&logo=gulp&logoColor=white)
-
-### Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat&logo=lighthouse&logoColor=white)
-
-### Deployment & Tools
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-### Currently Learning
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+**Currently:** Web Studio Intern | Specializing in React ecosystem & modern CSS  
+**Focus:** React, Next.js, TypeScript, Responsive Design, Legacy Code Modernization  
+**Location:** Lausanne, Switzerland 🇨🇭
 
 ---
 
-## 💡 Additional Skills
+<div align="center">
 
-### **Modern Web Development**
-- **React Ecosystem:** Router, Hooks, Context API, Performance optimization
-- **Internationalization (i18n):** Multi-language support with react-i18next
-- **SEO & Performance:** Meta tags, Core Web Vitals, Lighthouse optimization
+[![Email](https://img.shields.io/badge/Email-olga.gulyakevi4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:olga.gulyakevi4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gulyakevich-ab166674/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
 
-### **Integration & Workflow**
-- **API Integration:** REST APIs, third-party services, webhooks
-- **Accessibility:** WCAG AA compliance, semantic HTML, keyboard navigation
-- **CI/CD:** Automated deployment workflows, GitHub Actions
+**Available for frontend opportunities starting Q2 2026**
+
+</div>
 
 ---
 
-## 🚀 Learning Journey
+## 💻 Tech Stack & Expertise
 
-**🎓 Current Focus (2025):**
-- **Advanced React Architecture:** Design patterns, client application architecture, complex state management
-- **Modern Styling & Animation:** Tailwind CSS, advanced CSS animations, micro-interactions
-- **Full-Stack Fundamentals:** Algorithms, data structures, web security, Headless CMS integration
-- **Design for Developers:** UI/UX principles, design systems, Figma-to-code workflows
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**📚 Education & Experience:**
-- **CodeAcademy Front-End Engineer Path** (In Progress) - React, Redux, Testing, Deployment
-- **HTML Academy** (Completed) - React Development & Advanced JavaScript
-- **Web Studio Internship** (Starting October 2025) - Production experience with real client projects
-- **Freelance Projects:** Building portfolios, SMB websites, e-commerce solutions, and trackers
+### ⚛️ **Modern Frontend**
+**Core Technologies:**
+- React 19 (Hooks, Context, Performance)
+- Next.js (SSR, SSG, App Router)
+- JavaScript ES6+ / TypeScript
+- HTML5 (Semantic, Accessibility)
+- CSS3 (Grid, Flexbox, Animations)
 
-**🎯 Roadmap 2025-2026:**
-- 🔄 Master advanced React patterns and architectural approaches
-- 🛠️ Complete 5+ production-ready client projects (portfolios, e-commerce, calorie tracker)
-- 🎨 Develop strong design implementation skills with modern tools
-- 🏢 Gain hands-on experience through web studio internship
-- 💼 **Goal:** Secure frontend developer position by mid-2026
+**State Management:**
+- Redux Toolkit
+- Context API
+- React Query *(learning)*
+
+**Build Tools:**
+- Webpack 5 (custom configs)
+- Vite
+- Gulp
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 **Styling & Design**
+**CSS Expertise:**
+- Styled Components
+- Sass/SCSS
+- BEM methodology
+- Tailwind CSS *(learning)*
+- Responsive/Mobile-first design
+
+**Design Implementation:**
+- Figma-to-code workflows
+- Design system development
+- CSS animations & micro-interactions
+- WCAG AA accessibility
+
+**UI Frameworks:**
+- Custom component libraries
+- Semantic HTML structure
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 **Legacy & CMS**
+**CMS Experience:**
+- WordPress (theme development)
+- Joomla (component integration)
+- Headless CMS *(Contentful, Strapi)*
+
+**Legacy Code Work:**
+- PHP integration & modernization
+- jQuery → React migration
+- Progressive enhancement
+- API integration (REST, GraphQL)
+
+**Database:**
+- MySQL basics
+- API design patterns
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ **Quality & Deployment**
+**Testing:**
+- Jest, React Testing Library
+- Manual QA processes
+- Cross-browser testing
+- Accessibility audits
+
+**Performance:**
+- Lighthouse optimization (95+/100)
+- Core Web Vitals monitoring
+- Bundle size optimization
+
+**Deployment:**
+- GitHub Pages + Actions
+- Netlify, Vercel
+- Git workflows & collaboration
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Currently Learning
+→ Tailwind CSS         (Advanced utility-first styling)
+→ React Query          (Server state management)
+→ Node.js Basics       (Backend fundamentals)
+→ TypeScript           (Advanced patterns)
+→ Design Systems       (Component library architecture)
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 🧠 Memory Game
-*React 19 • React Router • Webpack 5 • i18n (EN/FR/RU)*
+### 🧠 Memory Game — React Training Application
 
-**Professional memory training application with production-ready architecture:**
+> Professional memory game showcasing modern React architecture, internationalization, and production deployment
 
-**Core Features:**
-- 3 themed card sets with smooth 3D CSS flip animations
-- Multilingual interface with react-i18next (English, French, Russian)
-- React Router SPA with optimized client-side navigation
-- Mobile-first responsive design with accessibility focus
+[![Live Demo](https://img.shields.io/badge/🎮_Live_Demo-Play_Now-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/memory-game/)
+[![Source Code](https://img.shields.io/badge/📦_GitHub-Source-181717?style=for-the-badge&logo=github)](https://github.com/OlgaGulyakevich/memory-game)
+[![Performance](https://img.shields.io/badge/Lighthouse-95/100-00C851?style=for-the-badge)](#)
 
-**Technical Implementation:**
-- Custom Webpack configuration with code splitting and bundle optimization
-- React hooks architecture for clean, maintainable game logic
-- Memoized components for optimal render performance
-- Hardware-accelerated CSS animations (60fps+)
-- Comprehensive manual testing and performance benchmarks
+**Built with:** React 19 • React Router • Webpack 5 • i18next (EN/FR/RU)
 
-**Quality Metrics:**
-- Lighthouse Performance: 95+/100
+<table>
+<tr>
+<td width="50%">
+
+**🎯 User Experience:**
+- 3 themed card sets with smooth 3D animations
+- Multilingual support (English, French, Russian)
+- Mobile-first responsive design
+- Full keyboard navigation
+- Touch-optimized for mobile devices
+
+</td>
+<td width="50%">
+
+**⚡ Technical Highlights:**
+- Lighthouse 95+/100 performance
 - WCAG AA accessibility compliant
-- Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
-- Mobile-optimized (iOS Safari, Chrome Mobile)
+- Custom Webpack optimization
+- Hardware-accelerated CSS animations
+- Cross-browser tested
 
-**[Live Demo](https://olgagulyakevich.github.io/memory-game/)** • **[Source Code](https://github.com/OlgaGulyakevich/memory-game)** • **[Documentation](https://github.com/OlgaGulyakevich/memory-game#-tech-stack--architecture)**
+</td>
+</tr>
+</table>
+
+**📖 [View Full Documentation & Technical Details →](https://github.com/OlgaGulyakevich/memory-game#readme)**
 
 ---
 
-### 🌐 Personal Portfolio (In Development)
+### 🌐 Personal Portfolio v2.0
 *Next.js • TypeScript • Tailwind CSS • Headless CMS*
-- Modern portfolio with advanced animations and design system
-- SEO-optimized with server-side rendering and static generation
-- Integrated blog powered by Headless CMS
-- **Expected:** Q4 2025
+
+**Status:** 🟡 In Development (Launch: December 2025)
+
+**Features:**
+- Server-side rendering + static generation for optimal SEO
+- Integrated blog powered by Headless CMS (Contentful)
+- Advanced animations with Framer Motion
+- Dark mode toggle with theme persistence
+- Comprehensive accessibility (WCAG AA)
+
+**Technical Focus:** Next.js mastery, modern styling patterns, CMS integration
 
 ---
 
-### 📋 Upcoming Projects Pipeline
-- **UGC Creator Portfolio** - Next.js, Airtable API, Stripe integration
-- **E-commerce Platform** - React, Redux Toolkit, payment processing
-- **Calorie Tracker** - React, TypeScript, data visualization with charts
-- **SMB Websites** - Client projects with modern CMS solutions
+### 📋 Upcoming Projects Pipeline (Q1 2026)
+
+**🛍️ UGC Creator Portfolio Platform**  
+*Next.js • Airtable API • Stripe • Tailwind*  
+Freelance client project with booking system and payment integration
+
+**📊 Calorie Tracker App**  
+*React • TypeScript • Chart.js*  
+Learning project focusing on TypeScript patterns and data visualization
+
+**🏢 SMB Websites**  
+*WordPress • Joomla • Custom Themes*  
+Client projects demonstrating CMS expertise and legacy code modernization
 
 ---
 
-## 🎨 Design & Development Philosophy
+## 🎯 What I Bring to Your Team
 
-> *"Great design is not just what it looks like — it's how it works"*
+<table>
+<tr>
+<td width="50%">
 
-- **Design-to-Code Workflow:** Transforming Figma prototypes into pixel-perfect, production-ready components
-- **CSS Architecture:** Clean, maintainable stylesheets using BEM methodology and modern CSS features
-- **User-Centered Approach:** Every interface decision prioritizes user needs and accessibility
-- **Performance-First:** Beautiful designs optimized for fast loading and smooth interactions
-- **Responsive Everything:** Seamless experiences across all devices and screen sizes
+### 💡 **Core Strengths**
+- ✅ **Modern React Expertise** — Hooks, performance optimization, best practices
+- ✅ **Design Implementation** — Figma-to-pixel-perfect responsive code
+- ✅ **Quality-First Mindset** — Accessibility, performance, comprehensive testing
+- ✅ **Legacy Code Experience** — WordPress, Joomla, PHP integration & modernization
+- ✅ **Fast Learner** — Constantly upskilling with latest technologies
+
+</td>
+<td width="50%">
+
+### 🎨 **Development Philosophy**
+> *"Great interfaces are accessible, performant, and maintainable"*
+
+- **User-Centered:** Every decision prioritizes user experience
+- **Performance-First:** Beautiful designs optimized for speed
+- **Accessibility:** WCAG compliance from day one
+- **Clean Code:** Maintainable, well-documented solutions
+- **Adaptable:** Comfortable with modern React OR legacy CMS
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Learning Journey & Experience
+
+**📚 Education & Training:**
+- **CodeAcademy Front-End Engineer Path** *(In Progress)* — React, Redux, Testing, Deployment
+- **HTML Academy** *(Completed)* — Advanced React Development & Modern JavaScript
+- **Web Studio Internship** *(Starting October 2025)* — Production experience with real client projects
+- **Freelance Projects** — Building portfolios, SMB websites, e-commerce solutions
+
+**🎯 Professional Development Roadmap (2025-2026):**
+- 🔄 Master advanced React patterns and architectural approaches
+- 🛠️ Complete 5+ production-ready client projects (portfolios, e-commerce, trackers)
+- 🎨 Develop strong design system implementation skills
+- 🏢 Gain hands-on team experience through web studio internship
+- 💼 **Goal:** Secure frontend developer position by mid-2026
+
+**🌟 Current Focus (2025):**
+- Advanced React architecture and design patterns
+- Modern styling with Tailwind CSS and CSS animations
+- Full-stack fundamentals (algorithms, data structures, web security)
+- Design for developers (UI/UX principles, Figma workflows)
+- Legacy code modernization strategies
+
+---
+
+## 💼 Ideal Opportunities
+
+**Perfect fit for roles involving:**
+- 🎨 **Frontend Development** — React/Next.js applications
+- 🔧 **CMS Customization** — WordPress, Joomla theme/plugin development
+- ♻️ **Legacy Modernization** — Migrating jQuery → React, PHP integration
+- 🚀 **Startup Environments** — Versatile developer comfortable wearing multiple hats
+- 🏢 **Agency Work** — Diverse projects requiring adaptability
+
+**My ideal role:**
+- Frontend-focused with React/Next.js as primary stack
+- Opportunities to work on design implementation
+- Team environment with mentorship and growth potential
+- Projects emphasizing accessibility and performance
+- Mix of greenfield development and legacy code improvement
 
 ---
 
@@ -150,21 +274,21 @@
 I'm actively seeking opportunities to:
 - 💡 **Collaborate** on frontend projects and open-source contributions
 - 🎯 **Learn** from experienced developers through mentorship
-- 🚀 **Build** production-ready applications that solve real business problems
+- 🚀 **Build** production-ready applications solving real business problems
 - 🌟 **Network** with the developer community
-- 🏢 **Contribute** to team projects in a professional environment
+- 🏢 **Contribute** to team projects in professional environments
 
 ---
 
 ### 📬 Get In Touch
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-olga.gulyakevi4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:olga.gulyakevi4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gulyakevich-ab166674/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
 
 ---
-
-<div align="center">
 
 **💜 Thanks for visiting my profile!**
 
@@ -173,3 +297,7 @@ I'm actively seeking opportunities to:
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich)
 
 </div>
+
+
+
+
