@@ -160,7 +160,7 @@
 </tr>
 </table>
 
-**📖 [View Full Documentation & Technical Details →](https://github.com/OlgaGulyakevich/memory-game#readme)**
+**📖 [View Full Documentation & Technical Details →](https://github.com/OlgaGulyakevich/memory-game/blob/main/public/docs/TECH_STACK.md)**
 
 ---
 
