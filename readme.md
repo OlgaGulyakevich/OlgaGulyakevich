@@ -24,9 +24,9 @@
 
 ## 💻 Tech Stack & Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table align="center">
+<tr >
+<td width="50%">
 
 ### ⚛️ **Modern Frontend**
 **Core Technologies:**
@@ -47,7 +47,7 @@
 - Gulp
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🎨 **Styling & Design**
 **CSS Expertise:**
@@ -70,7 +70,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🔧 **Legacy & CMS**
 **CMS Experience:**
@@ -89,7 +89,7 @@
 - API design patterns
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### ✅ **Quality & Deployment**
 **Testing:**
@@ -135,7 +135,7 @@
 
 **Built with:** React 19 • React Router • Webpack 5 • i18next (EN/FR/RU)
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
