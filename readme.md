@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olga Gulyakevich
 
-## 🎯 Frontend Developer | Building Production-Ready React Applications
+## 🎯 Frontend Developer | Specializing in Accessible & Performant Web Apps
 
 > Transforming designs into accessible, performant web experiences with modern frontend technologies
 
