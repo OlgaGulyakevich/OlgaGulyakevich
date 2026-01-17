@@ -149,7 +149,7 @@
 </td>
 <td width="50%">
 
-**⚡ Technical Highlights:**
+**Technical Highlights:**
 - Lighthouse 95+/100 performance
 - WCAG AA accessibility compliant
 - Custom Webpack optimization
