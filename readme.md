@@ -72,7 +72,7 @@
 <tr>
 <td width="50%">
 
-### 🔧 **Legacy & CMS**
+### **Legacy & CMS**
 **CMS Experience:**
 - WordPress (theme development)
 - Joomla (component integration)
@@ -202,7 +202,7 @@ Client projects demonstrating CMS expertise and legacy code modernization
 <tr>
 <td width="50%">
 
-### 💡 **Core Strengths**
+### **Core Strengths**
 - **Modern React Expertise** — Hooks, performance optimization, best practices
 - **Design Implementation** — Figma-to-pixel-perfect responsive code
 - **Quality-First Mindset** — Accessibility, performance, comprehensive testing
