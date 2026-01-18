@@ -6,7 +6,7 @@
 
 **Currently:** Web Studio Intern | Specializing in React ecosystem & modern CSS  
 **Focus:** React, Next.js, TypeScript, Responsive Design, Legacy Code Modernization  
-**Location:** Lausanne, Switzerland 🇨🇭
+**Location:** Gland, Switzerland 🇨🇭
 
 ---
 
@@ -26,7 +26,7 @@
 
 <table align="center">
 <tr >
-<td width="50%">
+<td width="50%" valign="top">
 
 ### **Modern Frontend**
 **Core Technologies:**
@@ -39,7 +39,7 @@
 **State Management:**
 - Redux Toolkit
 - Context API
-- React Query *(learning)*
+- React Query
 
 **Build Tools:**
 - Webpack 5 (custom configs)
@@ -47,14 +47,14 @@
 - Gulp
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### **Styling & Design**
 **CSS Expertise:**
 - Styled Components
 - Sass/SCSS
 - BEM methodology
-- Tailwind CSS *(learning)*
+- Tailwind CSS 
 - Responsive/Mobile-first design
 
 **Design Implementation:**
@@ -70,7 +70,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### **Legacy & CMS**
 **CMS Experience:**
@@ -89,19 +89,21 @@
 - API design patterns
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### **Quality & Deployment**
 **Testing:**
 - Jest, React Testing Library
 - Manual QA processes
 - Cross-browser testing
+- BackstopJS (visual regression)
 - Accessibility audits
 
 **Performance:**
 - Lighthouse optimization (95+/100)
 - Core Web Vitals monitoring
 - Bundle size optimization
+- WebP image pipelines
 
 **Deployment:**
 - GitHub Pages + Actions
@@ -164,10 +166,115 @@
 
 ---
 
+### 🎓 Internship Landing — Advanced Interactive Website
+
+> Production-ready landing page demonstrating advanced CSS techniques, complex Swiper.js implementations, and pixel-perfect responsive design
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/internship-landing-responsive-ui/)
+[![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-BackstopJS-00C851?style=for-the-badge)](#)
+[![BEM](https://img.shields.io/badge/Methodology-BEM-E74C3C?style=for-the-badge)](#)
+
+**Built with:** Vite 7 • Vanilla JS ES6+ • Sass (SCSS) • Swiper.js 12 • BackstopJS
+
+<table>
+<tr>
+<td width="50%">
+
+**Advanced Features:**
+- **4 Custom Swiper Implementations** — Hero, Programs, News (Grid), Reviews
+- **SVG Mask Shapes** — Decorative masks with inverted rounded corners
+- **Advanced Navigation System** — Pagination + arrows with dual scroll behaviors, custom styled scrollbars
+- **Dynamic Tabs** — JSON-based content loading with responsive grid
+- **Custom Pagination** — Sliding window algorithm (max 4 visible)
+
+</td>
+<td width="50%">
+
+**Technical Excellence:**
+- **Defensive CSS Patterns** — Overflow prevention, layout shift protection
+- **77 ARIA Attributes** — Full keyboard navigation, screen reader support
+- **Pixel-perfect ±5px** — 30 BackstopJS visual regression tests
+- **BEM Methodology** — Flat selectors, max nesting depth 1
+- **Modular Architecture** — ES2015 modules, async/await
+
+</td>
+</tr>
+</table>
+
+**📖 [View Architecture Documentation →](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui#readme)**
+
+---
+
+### 🏔️ Lifetour — Travel Agency Landing with Modal Architecture
+
+> Production-grade landing page showcasing architectural patterns, performance optimization, and vanilla JavaScript expertise
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/travel-landing-swiper-responsive/)
+[![Performance](https://img.shields.io/badge/Lighthouse-95/100-00C851?style=for-the-badge)](#)
+[![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla_ES6+-F7DF1E?style=for-the-badge)](#)
+
+**Built with:** Vite 7 • Vanilla JS ES6+ • Sass (SCSS) • Swiper.js 12 • BEM
+
+<table>
+<tr>
+<td width="50%">
+
+**Architecture Patterns:**
+- **Facade Pattern** — Centralized modal system
+- **Modular JavaScript** — Clean separation of concerns
+- **JSON-Driven Content** — Dynamic tour catalog loading
+- **Scroll Lock System** — Counter-based lock management
+- **BEM + Cascade** — Semantic content markup
+
+</td>
+<td width="50%">
+
+**⚡ Performance Focus:**
+- **40% Traffic Reduction** — WebP + JPEG fallback
+- **Lazy Loading** — Intersection Observer API
+- **Retina Optimization** — srcset for @1x/@2x images
+- **30 Visual Tests** — BackstopJS regression testing
+- **Zero Framework** — Pure vanilla JavaScript
+
+</td>
+</tr>
+</table>
+
+**📖 [View Technical Details →](https://github.com/OlgaGulyakevich/travel-landing-swiper-responsive#readme)**
+
+---
+
+<details>
+<summary><b>📋 Additional Projects & Work in Progress</b></summary>
+
+### ☕ Drink2Go — Pixel-Perfect E-commerce
+
+> Responsive coffee shop website built in 7 days, demonstrating rapid execution and pixel-perfect design implementation
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-7859cf?style=flat)](https://olgagulyakevich.github.io/drink2go-graduation/)
+
+**Built with:** Gulp 4 • Vanilla JS • SCSS (BEM) • NoUISlider
+
+**Key Features:**
+- ⏱️ **7-day execution** — Fast turnaround from design to deployment
+- 🎯 **Pixel-perfect ±2px** — Exact Figma mockup implementation
+- 📱 **Mobile-first** — 320px → 768px → 1440px responsive
+- 🎨 **Custom form controls** — Checkboxes, radio buttons, range slider
+
+**What it demonstrates:**
+- Speed of execution under tight deadlines
+- Pixel-perfect design translation skills
+- Gulp workflow vs Vite (versatility in build tools)
+- BEM methodology at scale
+
+**📖 [View Project →](https://github.com/OlgaGulyakevich/drink2go-graduation)**
+
+---
+
 ### Personal Portfolio v2.0
 *Next.js • TypeScript • Tailwind CSS • Headless CMS*
 
-**Status:** 🟡 In Development (Launch: December 2025)
+**Status:** 🟡 In Development (Launch: April 2026)
 
 **Features:**
 - Server-side rendering + static generation for optimal SEO
@@ -180,7 +287,7 @@
 
 ---
 
-### Upcoming Projects Pipeline (Q1 2026)
+### Upcoming Projects Pipeline (Q2 2026)
 
 **UGC Creator Portfolio Platform**  
 *Next.js • Airtable API • Stripe • Tailwind*  
@@ -189,10 +296,6 @@ Freelance client project with booking system and payment integration
 **Calorie Tracker App**  
 *React • TypeScript • Chart.js*  
 Learning project focusing on TypeScript patterns and data visualization
-
-**SMB Websites**  
-*WordPress • Joomla • Custom Themes*  
-Client projects demonstrating CMS expertise and legacy code modernization
 
 ---
 
@@ -242,7 +345,7 @@ Client projects demonstrating CMS expertise and legacy code modernization
 - Gain hands-on team experience through web studio internship
 - **Goal:** Secure frontend developer position by mid-2026
 
-**Current Focus (2025):**
+**Current Focus (2026):**
 - Advanced React architecture and design patterns
 - Modern styling with Tailwind CSS and CSS animations
 - Full-stack fundamentals (algorithms, data structures, web security)
