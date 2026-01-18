@@ -254,7 +254,7 @@
 
 > Responsive coffee shop website built in 7 days, demonstrating rapid execution and pixel-perfect design implementation
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-7859cf?style=flat)](https://olgagulyakevich.github.io/drink2go-graduation/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/drink2go-graduation/)
 [![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla_ES6+-F7DF1E?style=for-the-badge)](#)
 [![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-BackstopJS-00C851?style=for-the-badge)](#)
 [![BEM](https://img.shields.io/badge/Methodology-BEM-E74C3C?style=for-the-badge)](#)
