@@ -298,6 +298,8 @@ Freelance client project with booking system and payment integration
 *React • TypeScript • Chart.js*  
 Learning project focusing on TypeScript patterns and data visualization
 
+</details>
+
 ---
 
 ## What I Bring to Your Team
