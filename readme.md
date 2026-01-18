@@ -172,6 +172,7 @@
 > Production-ready landing page demonstrating advanced CSS techniques, complex Swiper.js implementations, and pixel-perfect responsive design
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/internship-landing-responsive-ui/)
+[![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla_ES6+-F7DF1E?style=for-the-badge)](#)
 [![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-BackstopJS-00C851?style=for-the-badge)](#)
 [![BEM](https://img.shields.io/badge/Methodology-BEM-E74C3C?style=for-the-badge)](#)
 
@@ -211,8 +212,9 @@
 > Production-grade landing page showcasing architectural patterns, performance optimization, and vanilla JavaScript expertise
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/travel-landing-swiper-responsive/)
-[![Performance](https://img.shields.io/badge/Lighthouse-95/100-00C851?style=for-the-badge)](#)
 [![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla_ES6+-F7DF1E?style=for-the-badge)](#)
+[![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-BackstopJS-00C851?style=for-the-badge)](#)
+[![BEM](https://img.shields.io/badge/Methodology-BEM-E74C3C?style=for-the-badge)](#)
 
 **Built with:** Vite 7 • Vanilla JS ES6+ • Sass (SCSS) • Swiper.js 12 • BEM
 
@@ -253,6 +255,9 @@
 > Responsive coffee shop website built in 7 days, demonstrating rapid execution and pixel-perfect design implementation
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Site-7859cf?style=flat)](https://olgagulyakevich.github.io/drink2go-graduation/)
+[![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla_ES6+-F7DF1E?style=for-the-badge)](#)
+[![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-BackstopJS-00C851?style=for-the-badge)](#)
+[![BEM](https://img.shields.io/badge/Methodology-BEM-E74C3C?style=for-the-badge)](#)
 
 **Built with:** Gulp 4 • Vanilla JS • SCSS (BEM) • NoUISlider
 
