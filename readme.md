@@ -57,15 +57,16 @@
 - Tailwind CSS 
 - Responsive/Mobile-first design
 
+**Advanced CSS Techniques:**
+- SVG masks & custom shapes
+- GPU-accelerated animations
+- Defensive CSS patterns
+
 **Design Implementation:**
 - Figma-to-code workflows
 - Design system development
 - CSS animations & micro-interactions
 - WCAG AA accessibility
-
-**UI Frameworks:**
-- Custom component libraries
-- Semantic HTML structure
 
 </td>
 </tr>
@@ -127,7 +128,7 @@
 
 ## Featured Projects
 
-### Memory Game — React Training Application
+### 🧠 Memory Game — React Training Application
 
 > Professional memory game showcasing modern React architecture, internationalization, and production deployment
 
