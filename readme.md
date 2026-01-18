@@ -203,7 +203,7 @@
 </tr>
 </table>
 
-**📖 [View Architecture Documentation →](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui#readme)**
+**[View Full Documentation & Technical Details →](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui#readme)**
 
 ---
 
@@ -243,7 +243,7 @@
 </tr>
 </table>
 
-**📖 [View Technical Details →](https://github.com/OlgaGulyakevich/travel-landing-swiper-responsive#readme)**
+**[View Full Documentation & Technical Details →](https://github.com/OlgaGulyakevich/travel-landing-swiper-responsive#readme)**
 
 ---
 
