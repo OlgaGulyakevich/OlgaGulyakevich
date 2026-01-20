@@ -267,7 +267,7 @@
 **What it demonstrates:**
 - Speed of execution under tight deadlines
 - Pixel-perfect design translation skills
-- Gulp workflow vs Vite (versatility in build tools)
+- Gulp workflow
 - BEM methodology at scale
 
 **📖 [View Project →](https://github.com/OlgaGulyakevich/drink2go-graduation)**
