@@ -363,7 +363,6 @@ Learning project focusing on TypeScript patterns and data visualization
 
 **Perfect fit for roles involving:**
 - **Frontend Development** — React/Next.js applications
-- **CMS Customization** — WordPress, Joomla theme/plugin development
 - **Legacy Modernization** — Migrating jQuery → React, PHP integration
 - **Startup Environments** — Versatile developer comfortable wearing multiple hats
 - **Agency Work** — Diverse projects requiring adaptability
