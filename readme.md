@@ -5,7 +5,7 @@
 > Transforming designs into accessible, performant web experiences with modern frontend technologies
 
 **Currently:** Web Studio Intern | Specializing in React ecosystem & modern CSS  
-**Focus:** React, Next.js, TypeScript, Responsive Design, Legacy Code Modernization  
+**Focus:** React, Next.js, TypeScript,SASS modules,Tailwind, Responsive Design, Legacy Code Modernization  
 **Location:** Gland, Switzerland 🇨🇭
 
 ---
