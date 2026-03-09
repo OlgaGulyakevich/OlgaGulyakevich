@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olga Gulyakevich
 
-## Frontend Developer | HTML, CSS, React, Next.js
+## Frontend Developer | HTML - CSS - React - Next.js
 
 > Transforming designs into accessible, performant web experiences with modern frontend technologies
 
