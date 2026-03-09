@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olga Gulyakevich
 
-## Frontend Developer | Specializing in Accessible & Performant Web Apps
+## Frontend Developer | HTML, CSS, React, Next.js
 
 > Transforming designs into accessible, performant web experiences with modern frontend technologies
 
