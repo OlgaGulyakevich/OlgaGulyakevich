@@ -222,19 +222,25 @@
 - Dark mode toggle with theme persistence
 - Comprehensive accessibility (WCAG AA)
 
-**Technical Focus:** Next.js mastery, modern styling patterns, CMS integration
-
 ---
 
 ### Upcoming Projects
 
-**UGC Creator Portfolio Platform**  
-*Next.js • Airtable API • Stripe • Tailwind*  
-Freelance client project with booking system and payment integration
+**🎨 Creative Agency Landing**
+*Vite • Vanilla JS • GSAP • SCSS*
+Animated landing page for a creative agency — scroll-driven animations, motion design, immersive UI. Private repository.
 
-**Calorie Tracker App**  
-*React • TypeScript • Chart.js*  
-Learning project focusing on TypeScript patterns and data visualization
+**🏆 Spreent Academy — Competitive Frontend Project**
+*Vite • Astro • BEM • SCSS*
+Pixel-perfect competitive project: Fluid Layout (320–1920px), semantic HTML, strict a11y standards.
+
+**👩‍💼 UGC Creator Portfolio**
+*Next.js • Tailwind*
+Freelance project — portfolio and landing page for a content creator client.
+
+**🖼️ Print & Photo Store**
+*React • TypeScript*
+Freelance e-commerce project — online store for framed prints and photography.
 
 </details>
 
