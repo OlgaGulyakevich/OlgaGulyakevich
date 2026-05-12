@@ -14,7 +14,7 @@
 
 [![Email](https://img.shields.io/badge/Email-olga.gulyakevi4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:olga.gulyakevi4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gulyakevich-ab166674/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
 
 **Available for frontend opportunities starting Q3 2026**
 
