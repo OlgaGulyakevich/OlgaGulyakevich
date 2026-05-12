@@ -122,16 +122,6 @@
 
 ---
 
-### Currently Learning
-→ Whimsical Animations (Josh W. Comeau — motion design, spring physics, delightful UI)
-→ Tailwind CSS         (Advanced utility-first styling)
-→ React Query          (Server state management)
-→ Node.js Basics       (Backend fundamentals)
-→ TypeScript           (Advanced patterns)
-→ Design Systems       (Component library architecture)
-
----
-
 ## Featured Projects
 
 ### 🧠 Memory Game — React Training Application
@@ -283,7 +273,7 @@
 ### Personal Portfolio v2.0
 *Next.js • TypeScript • Tailwind CSS • Headless CMS*
 
-**Status:** 🟡 In Development (Launch: April 2026)
+**Status:** 🟡 In Development (Launch: Q3 2026)
 
 **Features:**
 - Server-side rendering + static generation for optimal SEO
@@ -296,7 +286,7 @@
 
 ---
 
-### Upcoming Projects Pipeline (Q2 2026)
+### Upcoming Projects
 
 **UGC Creator Portfolio Platform**  
 *Next.js • Airtable API • Stripe • Tailwind*  
@@ -365,27 +355,15 @@ Learning project focusing on TypeScript patterns and data visualization
 
 **Perfect fit for roles involving:**
 - **Frontend Development** — React/Next.js applications
-- **Legacy Modernization** — Migrating jQuery → React, PHP integration
+- **UI-Focused Work** — Animations, micro-interactions, pixel-perfect implementation
 - **Startup Environments** — Versatile developer comfortable wearing multiple hats
 - **Agency Work** — Diverse projects requiring adaptability
 
 **My ideal role:**
 - Frontend-focused with React/Next.js as primary stack
-- Opportunities to work on design implementation
+- Opportunities to work on design implementation and motion design
 - Team environment with mentorship and growth potential
-- Projects emphasizing accessibility and performance
-- Mix of greenfield development and legacy code improvement
-
----
-
-## Let's Connect & Collaborate
-
-I'm actively seeking opportunities to:
-- **Collaborate** on frontend projects and open-source contributions
-- **Learn** from experienced developers through mentorship
-- **Build** production-ready applications solving real business problems
-- **Network** with the developer community
-- **Contribute** to team projects in professional environments
+- Projects emphasizing accessibility, performance, and UX quality
 
 ---
 
