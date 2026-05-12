@@ -215,13 +215,6 @@
 
 **Status:** 🟡 In Development (Launch: Q3 2026)
 
-**Features:**
-- Server-side rendering + static generation for optimal SEO
-- Integrated blog powered by Headless CMS (Contentful)
-- Advanced animations with Framer Motion
-- Dark mode toggle with theme persistence
-- Comprehensive accessibility (WCAG AA)
-
 ---
 
 ### Upcoming Projects
@@ -247,6 +240,12 @@ Freelance project — portfolio and landing page for a content creator client.
 **🖼️ Print & Photo Store**
 *React • TypeScript*
 Freelance e-commerce project — online store for framed prints and photography.
+
+---
+
+**✈️ Mysterious Vacation — Advanced Animation Project**
+*Vanilla JS • CSS • SVG • Canvas • Three.js*
+Complex animation course project (HTML Academy): fullscreen scroll-jacking with locked transitions, 13 choreographed animation sequences including spring-physics list reveals, stagger chains, wheel-roll pagination buttons, SVG path drawing & SMIL illustration animations, Canvas low-level drawing, Three.js 3D scene with camera rig, cursor-reactive viewport, Post-Processing effects.
 
 </details>
 
