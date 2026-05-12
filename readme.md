@@ -231,8 +231,14 @@
 Animated landing page for a creative agency — scroll-driven animations, motion design, immersive UI. Private repository.
 
 **🏆 Spreent Academy — Competitive Frontend Project**
-*Vite • Astro • BEM • SCSS*
-Pixel-perfect competitive project: Fluid Layout (320–1920px), semantic HTML, strict a11y standards.
+*Vite • Vanilla JS • Sass (SCSS) • BEM · Astro migration in progress*
+
+Competitive pixel-perfect build with advanced CSS & animation engineering:
+- **Fluid Layout** — clamp()-based scaling 320–1920px, custom `fluid-val()` SCSS mixin, zero breakpoints
+- **CSS-only animations** — magnetic CTA button, paint-fill logo reveal, parallax (scroll + mousemove with lerp), counter count-up with easeOutCubic, scroll reveal on headings
+- **CSS geometry** — avatar stack via mask-image radial-gradient, glass UI mockup via backdrop-filter + gradient overlay, corner handles via layered background-image
+- **Performance** — content-visibility: auto on heavy sections, WebP + retina srcset, SVG sprite autopipeline
+- **Accessibility** — focus trap in mobile menu, aria-live notifications, @media (hover: hover) guards, prefers-reduced-motion respected throughout
 
 **👩‍💼 UGC Creator Portfolio**
 *Next.js • Tailwind*
