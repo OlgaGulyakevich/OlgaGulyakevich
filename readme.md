@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Olga Gulyakevich
 
-## Frontend Developer | HTML - CSS - React - Next.js
+## Frontend Developer | React · Next.js · TypeScript · GSAP
 
 > Transforming designs into accessible, performant web experiences — with thoughtful animations and attention to every step of the user journey
 
@@ -64,6 +64,9 @@
 - Micro-interactions & tactile UI feedback
 - `prefers-reduced-motion` — always
 - Defensive CSS patterns
+
+**Animation Libraries:**
+- GSAP (ScrollTrigger, timeline animations)
 
 **Design Implementation:**
 - Figma-to-code workflows
@@ -203,72 +206,8 @@
 
 ---
 
-### 🏔️ Lifetour — Travel Agency Landing with Modal Architecture
-
-> Production-grade landing page showcasing architectural patterns, performance optimization, and vanilla JavaScript expertise
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/travel-landing-swiper-responsive/)
-[![Vanilla JS](https://img.shields.io/badge/JavaScript-Vanilla_ES6+-F7DF1E?style=for-the-badge)](#)
-[![Pixel Perfect](https://img.shields.io/badge/Pixel_Perfect-BackstopJS-00C851?style=for-the-badge)](#)
-[![BEM](https://img.shields.io/badge/Methodology-BEM-E74C3C?style=for-the-badge)](#)
-
-**Built with:** Vite 7 • Vanilla JS ES6+ • Sass (SCSS) • Swiper.js 12 • BEM
-
-<table>
-<tr>
-<td width="50%">
-
-**Architecture Patterns:**
-- **Facade Pattern** — Centralized modal system
-- **Modular JavaScript** — Clean separation of concerns
-- **JSON-Driven Content** — Dynamic tour catalog loading
-- **Scroll Lock System** — Counter-based lock management
-- **BEM + Cascade** — Semantic content markup
-
-</td>
-<td width="50%">
-
-**⚡ Performance Focus:**
-- **40% Traffic Reduction** — WebP + JPEG fallback
-- **Lazy Loading** — Intersection Observer API
-- **Retina Optimization** — srcset for @1x/@2x images
-- **30 Visual Tests** — BackstopJS regression testing
-- **Zero Framework** — Pure vanilla JavaScript
-
-</td>
-</tr>
-</table>
-
-**[View Full Documentation & Technical Details →](https://github.com/OlgaGulyakevich/travel-landing-swiper-responsive#readme)**
-
----
-
 <details>
 <summary><b>📋 Additional Projects & Work in Progress</b></summary>
-
-### ☕ Drink2Go — Pixel-Perfect E-commerce
-
-> Responsive coffee shop website built in 7 days, demonstrating rapid execution and pixel-perfect design implementation
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Site-4A90E2?style=for-the-badge)](https://olgagulyakevich.github.io/drink2go-graduation/)
-
-**Built with:** Gulp 4 • Vanilla JS • SCSS (BEM) • NoUISlider
-
-**Key Features:**
-- ⏱️ **7-day execution** — Fast turnaround from design to deployment
-- 🎯 **Pixel-perfect ±2px** — Exact Figma mockup implementation
-- 📱 **Mobile-first** — 320px → 768px → 1440px responsive
-- 🎨 **Custom form controls** — Checkboxes, radio buttons, range slider
-
-**What it demonstrates:**
-- Speed of execution under tight deadlines
-- Pixel-perfect design translation skills
-- Gulp workflow
-- BEM methodology at scale
-
-**📖 [View Project →](https://github.com/OlgaGulyakevich/drink2go-graduation)**
-
----
 
 ### Personal Portfolio v2.0
 *Next.js • TypeScript • Tailwind CSS • Headless CMS*
