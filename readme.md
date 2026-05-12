@@ -317,7 +317,7 @@ Learning project focusing on TypeScript patterns and data visualization
 
 ---
 
-**💜 Thanks for visiting my profile!**
+**💙 Thanks for visiting my profile!**
 
 *Let's build something amazing together* 
 
