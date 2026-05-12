@@ -45,7 +45,6 @@
 **Build Tools:**
 - Webpack 5 (custom configs)
 - Vite
-- Gulp
 
 </td>
 <td width="50%" valign="top">
