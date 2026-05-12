@@ -62,6 +62,7 @@
 - GPU-accelerated animations (transform/opacity only)
 - Scroll-driven & entrance animations
 - Micro-interactions & tactile UI feedback
+- View Transition API
 - `prefers-reduced-motion` — always
 - Defensive CSS patterns
 
