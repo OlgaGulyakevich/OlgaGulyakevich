@@ -101,7 +101,7 @@
 - Cross-browser testing
 - BackstopJS (visual regression)
 - Accessibility audits
-- Multi-stage linting pipeline (HTML, CSS, JS, BEM)
+- Multi-stage linting pipeline (W3C, HTML, CSS, BEM, JS, file naming)
 - Automated image optimization (WebP conversion, srcset)
 
 **Performance:**
