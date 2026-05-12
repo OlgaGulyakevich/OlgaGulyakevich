@@ -2,10 +2,10 @@
 
 ## Frontend Developer | HTML - CSS - React - Next.js
 
-> Transforming designs into accessible, performant web experiences with modern frontend technologies
+> Transforming designs into accessible, performant web experiences — with thoughtful animations and attention to every step of the user journey
 
 **Currently:** Web Studio Intern | Specializing in React ecosystem & modern CSS  
-**Focus:** React, Next.js, TypeScript, SASS modules, Tailwind, Responsive Design, Legacy Code Modernization  
+**Focus:** React, Next.js, Astro, TypeScript, SASS modules, Tailwind, Animations & Motion Design, Responsive Design  
 **Location:** Gland, Switzerland 🇨🇭
 
 ---
@@ -32,6 +32,7 @@
 **Core Technologies:**
 - React 19 (Hooks, Context, Performance)
 - Next.js (SSR, SSG, App Router)
+- Astro (Islands architecture, SSG)
 - JavaScript ES6+ / TypeScript
 - HTML5 (Semantic, Accessibility)
 - CSS3 (Grid, Flexbox, Animations)
@@ -59,13 +60,17 @@
 
 **Advanced CSS Techniques:**
 - SVG masks & custom shapes
-- GPU-accelerated animations
+- GPU-accelerated animations (transform/opacity only)
+- Scroll-driven & entrance animations
+- Micro-interactions & tactile UI feedback
+- `prefers-reduced-motion` — always
 - Defensive CSS patterns
 
 **Design Implementation:**
 - Figma-to-code workflows
 - Design system development
 - CSS animations & micro-interactions
+- Motion design — user journey analysis
 - WCAG AA accessibility
 
 </td>
@@ -73,10 +78,8 @@
 <tr>
 <td width="50%" valign="top">
 
-### **Legacy & CMS**
-**CMS Experience:**
-- WordPress (theme development)
-- Joomla (component integration)
+### **Legacy & Integrations**
+**CMS:**
 - Headless CMS *(Contentful, Strapi)*
 
 **Legacy Code Work:**
@@ -93,16 +96,19 @@
 <td width="50%" valign="top">
 
 ### **Quality & Deployment**
-**Testing:**
+**Testing & Quality:**
 - Jest, React Testing Library
 - Manual QA processes
 - Cross-browser testing
 - BackstopJS (visual regression)
 - Accessibility audits
+- Multi-stage linting pipeline (HTML, CSS, JS, BEM)
+- Automated image optimization (WebP conversion, srcset)
 
 **Performance:**
 - Lighthouse optimization (95+/100)
 - Core Web Vitals monitoring
+- Critical CSS (inlined in base build)
 - Bundle size optimization
 - WebP image pipelines
 
@@ -118,6 +124,7 @@
 ---
 
 ### Currently Learning
+→ Whimsical Animations (Josh W. Comeau — motion design, spring physics, delightful UI)
 → Tailwind CSS         (Advanced utility-first styling)
 → React Query          (Server state management)
 → Node.js Basics       (Backend fundamentals)
@@ -314,7 +321,7 @@ Learning project focusing on TypeScript patterns and data visualization
 - **Modern React Expertise** — Hooks, performance optimization, best practices
 - **Design Implementation** — Figma-to-pixel-perfect responsive code
 - **Quality-First Mindset** — Accessibility, performance, comprehensive testing
-- **Legacy Code Experience** — WordPress, Joomla, PHP integration & modernization
+- **Animation & Motion Design** — Thoughtful UI animations, micro-interactions, user journey focus
 - **Fast Learner** — Constantly upskilling with latest technologies
 
 </td>
@@ -327,7 +334,7 @@ Learning project focusing on TypeScript patterns and data visualization
 - **Performance-First:** Beautiful designs optimized for speed
 - **Accessibility:** WCAG compliance from day one
 - **Clean Code:** Maintainable, well-documented solutions
-- **Adaptable:** Comfortable with modern React OR legacy CMS
+- **Adaptable:** Comfortable with modern React, static sites, or legacy codebases
 
 </td>
 </tr>
