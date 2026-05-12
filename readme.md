@@ -225,13 +225,7 @@ Animated landing page for a creative agency — scroll-driven animations, motion
 
 **🏆 Spreent Academy — Competitive Frontend Project**
 *Vite • Vanilla JS • Sass (SCSS) • BEM · Astro migration in progress*
-
-Competitive pixel-perfect build with advanced CSS & animation engineering:
-- **Fluid Layout** — clamp()-based scaling 320–1920px, custom `fluid-val()` SCSS mixin, zero breakpoints
-- **CSS-only animations** — magnetic CTA button, paint-fill logo reveal, parallax (scroll + mousemove with lerp), counter count-up with easeOutCubic, scroll reveal on headings
-- **CSS geometry** — avatar stack via mask-image radial-gradient, glass UI mockup via backdrop-filter + gradient overlay, corner handles via layered background-image
-- **Performance** — content-visibility: auto on heavy sections, WebP + retina srcset, SVG sprite autopipeline
-- **Accessibility** — focus trap in mobile menu, aria-live notifications, @media (hover: hover) guards, prefers-reduced-motion respected throughout
+Pixel-perfect competitive build: Fluid Layout via clamp() with custom `fluid-val()` mixin, magnetic CTA, paint-fill logo reveal, lerp parallax, CSS-only geometry (mask-image avatars, glass mockup), content-visibility: auto, full a11y.
 
 **👩‍💼 UGC Creator Portfolio**
 *Next.js • Tailwind*
@@ -241,11 +235,9 @@ Freelance project — portfolio and landing page for a content creator client.
 *React • TypeScript*
 Freelance e-commerce project — online store for framed prints and photography.
 
----
-
 **✈️ Mysterious Vacation — Advanced Animation Project**
 *Vanilla JS • CSS • SVG • Canvas • Three.js*
-Complex animation course project (HTML Academy): fullscreen scroll-jacking with locked transitions, 13 choreographed animation sequences including spring-physics list reveals, stagger chains, wheel-roll pagination buttons, SVG path drawing & SMIL illustration animations, Canvas low-level drawing, Three.js 3D scene with camera rig, cursor-reactive viewport, Post-Processing effects.
+Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: spring-physics list reveals, stagger chains, wheel-roll pagination, SVG path drawing & SMIL illustrations, Canvas low-level drawing, Three.js 3D scene with camera rig, cursor-reactive viewport, Post-Processing effects.
 
 </details>
 
@@ -268,7 +260,7 @@ Complex animation course project (HTML Academy): fullscreen scroll-jacking with 
 <td width="50%">
 
 ### **Development Philosophy**
-> *"Great interfaces are accessible, performant, and maintainable"*
+> *"Great interfaces are not just built — they're felt"*
 
 - **User-Centered:** Every decision prioritizes user experience
 - **Performance-First:** Beautiful designs optimized for speed
@@ -330,12 +322,8 @@ Complex animation course project (HTML Academy): fullscreen scroll-jacking with 
 
 **💙 Thanks for visiting my profile!**
 
-*Let's build something amazing together* 
+*Let's build something amazing together*
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich)
 
 </div>
-
-
-
-
