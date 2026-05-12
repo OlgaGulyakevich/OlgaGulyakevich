@@ -346,22 +346,18 @@ Learning project focusing on TypeScript patterns and data visualization
 **Education & Training:**
 - **CodeAcademy Front-End Engineer Path** *(In Progress)* — React, Redux, Testing, Deployment
 - **HTML Academy** *(Completed)* — Advanced React Development & Modern JavaScript
-- **Web Studio Internship** *(Starting October 2025)* — Production experience with real client projects
+- **Whimsical Animations** *(In Progress)* — Josh W. Comeau — motion design, spring physics, delightful UI
+- **Web Studio Internship** *(In Progress · Oct 2025 – present)* — Production experience with real client projects
 - **Freelance Projects** — Building portfolios, SMB websites, e-commerce solutions
 
-**Professional Development Roadmap (2025-2026):**
-- Master advanced React patterns and architectural approaches
-- Complete 5+ production-ready client projects (portfolios, e-commerce, trackers)
-- Develop strong design system implementation skills
-- Gain hands-on team experience through web studio internship
-- **Goal:** Secure frontend developer position by mid-2026
-
 **Current Focus (2026):**
-- Advanced React architecture and design patterns
-- Modern styling with Tailwind CSS and CSS animations
-- Full-stack fundamentals (algorithms, data structures, web security)
+- Whimsical Animations — Josh W. Comeau (motion design, spring physics)
+- Advanced React architecture & design patterns
+- Protocols & networking (HTTP/S, WebSocket fundamentals)
+- Web security (OWASP Top 10, CSP, auth flows)
 - Design for developers (UI/UX principles, Figma workflows)
-- Legacy code modernization strategies
+
+**Goal:** Secure frontend developer position in 2026
 
 ---
 
