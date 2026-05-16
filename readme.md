@@ -146,23 +146,23 @@
 
 ### Upcoming Projects
 
-**🎨 Creative Agency Landing**
+**Creative Agency Landing**
 *Vite • Vanilla JS • GSAP • SCSS*
 Animated landing page for a creative agency — scroll-driven animations, motion design, immersive UI. Private repository.
 
-**🏆 Spreent Academy — Competitive Frontend Project**
+**Spreent Academy — Competitive Frontend Project**
 *Vite • Vanilla JS • Sass (SCSS) • BEM · Astro migration in progress*
 Pixel-perfect competitive build: Fluid Layout via clamp() with custom `fluid-val()` mixin, magnetic CTA, paint-fill logo reveal, lerp parallax, CSS-only geometry (mask-image avatars, glass mockup), content-visibility: auto, full a11y.
 
-**👩‍💼 UGC Creator Portfolio**
+**UGC Creator Portfolio**
 *Next.js • Tailwind*
 Freelance project — portfolio and landing page for a content creator client.
 
-**🖼️ Print & Photo Store**
+**Print & Photo Store**
 *React • TypeScript*
 Freelance e-commerce project — online store for framed prints and photography.
 
-**✈️ Mysterious Vacation — Advanced Animation Project**
+**Mysterious Vacation — Advanced Animation Project**
 *Vanilla JS • CSS • SVG • Canvas • Three.js*
 Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: spring-physics list reveals, stagger chains, wheel-roll pagination, SVG path drawing & SMIL illustrations, Canvas low-level drawing, Three.js 3D scene with camera rig, cursor-reactive viewport, Post-Processing effects.
 
