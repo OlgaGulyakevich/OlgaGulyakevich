@@ -207,10 +207,10 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - **Web Studio Internship** *(In Progress · Oct 2025 – present)* — production client projects:
   - **Loyalty program promo site** — GSAP animation sequences, View Transitions API, winners table with filters, search & tooltips; prize carousel (Swiper)
   - **Online course aggregator** — mega menu, tabs, Fluid Layout 320–1920px, Swiper.js
+  - **Cross-cutting contributions:** UX audit (proposed replacing tab-based navigation with radio buttons in the checkout flow to reduce friction and improve conversion; simplified user journey to 3 steps: read → select → continue); accessibility audit — WCAG AA fixes: keyboard navigation, focus management, ARIA labels; cross-browser & cross-device QA; responsive redesign for updated breakpoints
 - **HTML Academy** *(Completed)* — Adaptive Layout, Web Interfaces, Automation & Tooling, JavaScript, React
 - **CodeAcademy Front-End Engineer Path** *(Completed)* — React, Redux, Testing, Deployment
 - **Whimsical Animations** *(In Progress)* — Josh W. Comeau — motion design, spring physics, delightful UI
-- **Freelance Projects** — Building portfolios, SMB websites, e-commerce solutions
 
 **Current Focus (2026):**
 - Advanced React architecture & design patterns
