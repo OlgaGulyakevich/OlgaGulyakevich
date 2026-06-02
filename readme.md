@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gulyakevich-ab166674/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
 
-**Available for frontend opportunities starting Q3 2026**
+**Open to frontend opportunities from October 2026**
 
 </div>
 
@@ -24,39 +24,38 @@
 
 ## Tech Stack & Expertise
 
+> **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying / familiar)
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
 ### **Modern Frontend**
-**Core Technologies:**
-- React (Hooks, Context, Performance)
-- Next.js (SSR, SSG, App Router)
+**Production:**
+- React (Hooks, Context, performance)
+- Next.js (App Router, SSR/SSG)
 - Astro (Islands architecture, SSG)
 - JavaScript ES6+ / TypeScript
-- HTML5 (Semantic, Accessibility)
-- CSS3 (Grid, Flexbox, Animations)
+- HTML5 (semantic, accessibility)
+- CSS3 (Grid, Flexbox, animations)
+- **Architecture:** SPA (React/Next) · MPA & static sites (Astro, vanilla)
 
-**State Management:**
-- Redux Toolkit
-- Context API
-- React Query
-- Zustand
+**Working:**
+- Zustand · Context API · React Query
+- Vite · Webpack 5 (custom config)
 
-**Build Tools:**
-- Webpack 5 (custom configs)
-- Vite
+**Learning:**
+- Redux Toolkit *(legacy/enterprise — prefer Zustand for new projects)*
+- Feature-Sliced Design (FSD)
 
 </td>
 <td width="50%" valign="top">
 
 ### **Styling & Design**
 **CSS Expertise:**
+- Sass/SCSS · BEM methodology · Tailwind CSS
 - Styled Components
-- Sass/SCSS
-- BEM methodology
-- Tailwind CSS
-- Responsive/Mobile-first design
+- Responsive / mobile-first design
 
 **Advanced CSS Techniques:**
 - SVG masks & custom shapes
@@ -73,7 +72,6 @@
 **Design Implementation:**
 - Figma-to-code workflows
 - Design system development
-- CSS animations & micro-interactions
 - Motion design — user journey analysis
 - WCAG AA accessibility
 
@@ -82,26 +80,24 @@
 <tr>
 <td width="50%" valign="top">
 
-### **Legacy & Integrations**
-**CMS:**
-- Headless CMS *(Contentful, Strapi)*
+### **CMS & Integrations**
+**Production:**
+- **CMS-ready markup** — semantic HTML structured for CMS integration (classes-on-tags, cascade styling, content-editable zones)
 
-**Legacy Code Work:**
-- PHP integration & modernization
-- jQuery → React migration
+**Learning:**
+- Headless CMS *(Contentful, Strapi — building Portfolio v2)*
+
+**Familiar:**
+- PHP & jQuery in legacy contexts
 - Progressive enhancement
-- API integration (REST, GraphQL)
-
-**Database:**
-- MySQL basics
-- API design patterns
+- REST API integration
 
 </td>
 <td width="50%" valign="top">
 
 ### **Quality & Deployment**
 **Testing & Quality:**
-- Jest, React Testing Library
+- Jest / Vitest, React Testing Library
 - Manual QA processes
 - Cross-browser testing
 - BackstopJS (visual regression)
@@ -155,12 +151,12 @@ Animated landing page for a creative agency — scroll-driven animations, motion
 Pixel-perfect competitive build: Fluid Layout via clamp() with custom `fluid-val()` mixin, magnetic CTA, paint-fill logo reveal, lerp parallax, CSS-only geometry (mask-image avatars, glass mockup), content-visibility: auto, full a11y.
 
 **UGC Creator Portfolio**
-*Next.js • Tailwind*
-Freelance project — portfolio and landing page for a content creator client.
+*Next.js • TypeScript • Tailwind • Headless CMS*
+Freelance project — portfolio and landing page for a content creator client, with editable content via headless CMS.
 
 **Print & Photo Store**
-*React • TypeScript*
-Freelance e-commerce project — online store for framed prints and photography.
+*Next.js • TypeScript • Supabase • Stripe*
+E-commerce project — online store for framed prints and photography. Full-stack build: Supabase auth & database, custom admin dashboard (product CRUD, orders), cart, checkout & Stripe payments.
 
 **Mysterious Vacation — Advanced Animation Project**
 *Vanilla JS • CSS • SVG • Canvas • Three.js*
@@ -177,7 +173,7 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 <td width="50%">
 
 ### **Core Strengths**
-- **Modern React Expertise** — Hooks, performance optimization, best practices
+- **Strong React Skills** — Hooks, performance optimization, best practices
 - **Design Implementation** — Figma-to-pixel-perfect responsive code
 - **Quality-First Mindset** — Accessibility, performance, comprehensive testing
 - **Animation & Motion Design** — Thoughtful UI animations, micro-interactions, user journey focus
@@ -218,16 +214,16 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - Web security (OWASP Top 10, CSP, auth flows)
 - UI Engineering — CSS/SVG animations, Canvas, WebGL, Three.js
 
-**Goal:** Secure frontend developer position in 2026
+**Goal:** Frontend developer position — actively job-searching from October 2026
 
 ---
 
 ## Ideal Opportunities
 
-- React/Next.js frontend with design implementation & motion design focus
-- Team with mentorship and growth potential
-- Projects emphasizing accessibility, performance, and UX quality
-- Startup, agency, or product environments — comfortable with diverse challenges
+- Frontend roles with strong **design implementation & motion design** focus — custom interfaces, scroll-driven animations, micro-interactions
+- Studios / agencies building bespoke, design-led sites (pixel-perfect, custom layouts)
+- Product teams where UI quality, accessibility & performance matter
+- Teams with mentorship and growth potential
 
 ---
 
