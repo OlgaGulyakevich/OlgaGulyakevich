@@ -41,10 +41,11 @@
 - **Architecture:** SPA (React/Next) · MPA & static sites (Astro, vanilla)
 
 **Working:**
-- Zustand · Context API · React Query
+- Zustand · Context API
 - Vite · Webpack 5 (custom config)
 
 **Learning:**
+- React Query (TanStack Query)
 - Redux Toolkit *(legacy/enterprise — prefer Zustand for new projects)*
 - Feature-Sliced Design (FSD)
 
@@ -131,7 +132,7 @@
 | [**Internship Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [View →](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | 4 Swiper configs · SVG mask shapes · sliding window pagination · dynamic tabs |
 
 <details>
-<summary><b>📋 Additional Projects & Work in Progress</b></summary>
+<summary><b>Additional Projects & Work in Progress</b></summary>
 
 ### Personal Portfolio v2.0
 *Next.js • TypeScript • Tailwind CSS • Headless CMS*
@@ -212,7 +213,7 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - Advanced React architecture & design patterns
 - Protocols & networking (HTTP/S, WebSocket fundamentals)
 - Web security (OWASP Top 10, CSP, auth flows)
-- UI Engineering — CSS/SVG animations, Canvas, WebGL, Three.js
+- UI Engineering — Canvas, WebGL, Three.js
 
 **Goal:** Frontend developer position — actively job-searching from October 2026
 
