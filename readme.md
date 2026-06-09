@@ -22,7 +22,7 @@
 
 ---
 
-## Tech Stack & Expertise
+## Tech Stack & Proficiency
 
 > **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying / familiar)
 
@@ -86,7 +86,7 @@
 - **CMS-ready markup** — semantic HTML structured for CMS integration (classes-on-tags, cascade styling, content-editable zones)
 
 **Learning:**
-- Headless CMS *(Contentful, Strapi — building Portfolio v2)*
+- Headless CMS — **Sanity** (UGC Creator Portfolio) · **Payload** (Portfolio v2, TS-native CMS + backend)
 
 **Familiar:**
 - PHP & jQuery in legacy contexts
@@ -135,7 +135,7 @@
 <summary><b>Additional Projects & Work in Progress</b></summary>
 
 ### Personal Portfolio v2.0
-*Next.js • TypeScript • Tailwind CSS • Headless CMS*
+*Next.js • TypeScript • Tailwind CSS • Payload*
 
 **Status:** 🟡 In Development (Launch: Q3 2026)
 
@@ -152,8 +152,8 @@ Animated landing page for a creative agency — scroll-driven animations, motion
 Pixel-perfect competitive build: Fluid Layout via clamp() with custom `fluid-val()` mixin, magnetic CTA, paint-fill logo reveal, lerp parallax, CSS-only geometry (mask-image avatars, glass mockup), content-visibility: auto, full a11y.
 
 **UGC Creator Portfolio**
-*Next.js • TypeScript • Tailwind • Headless CMS*
-Freelance project — portfolio and landing page for a content creator client, with editable content via headless CMS.
+*Next.js • TypeScript • Tailwind • Sanity*
+Freelance project — portfolio and landing page for a content creator client, with editable content via Sanity (headless CMS).
 
 **Print & Photo Store**
 *Next.js • TypeScript • Supabase • Stripe*
