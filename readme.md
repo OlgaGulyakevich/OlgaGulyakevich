@@ -137,6 +137,8 @@
 ### Personal Portfolio v2.0
 *Next.js • TypeScript • Tailwind CSS • Payload*
 
+Will include a **Lab / Experiments** section — a curated gallery of interactive animation & micro-interaction demos (motion craft showcase).
+
 **Status:** 🟡 In Development (Launch: Q3 2026)
 
 ---
