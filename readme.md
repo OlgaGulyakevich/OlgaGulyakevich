@@ -132,7 +132,7 @@
 |---------|-------|------|------------|
 | [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · Webpack 5 · i18next | [Play →](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
 | [**Internship Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [View →](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | 4 Swiper configs · SVG mask shapes · sliding window pagination · dynamic tabs |
-| [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm →](https://www.npmjs.com/package/@gulyakevich/optikit) | **First published npm package** · CLI for web-asset optimization (img/og/video/svg/favicon) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
+| [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm →](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI for web-asset optimization (img/og/video/svg/favicon) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
 
 <details>
 <summary><b>Additional Projects & Work in Progress</b></summary>
@@ -213,6 +213,7 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - **HTML Academy** *(Completed)* — Adaptive Layout, Web Interfaces, Automation & Tooling, JavaScript, React
 - **CodeAcademy Front-End Engineer Path** *(Completed)* — React, Redux, Testing, Deployment
 - **Whimsical Animations** *(In Progress)* — Josh W. Comeau — motion design, spring physics, delightful UI
+- **Animations on the Web** *(Upcoming)* — Emil Kowalski (animations.dev) — animation principles, Motion (Framer Motion), interruptible animations, performance & taste-driven product motion
 
 **Current Focus (2026):**
 - Advanced React architecture & design patterns
