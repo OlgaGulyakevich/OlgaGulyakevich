@@ -235,6 +235,8 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - Product teams where UI quality, accessibility & performance matter
 - Teams with mentorship and growth potential
 
+---
+
 ## Get in Touch
 
 <p align="center">
