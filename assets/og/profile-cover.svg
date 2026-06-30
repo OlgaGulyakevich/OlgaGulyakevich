@@ -12,5 +12,5 @@
   <!-- stack (mono, echoes the typing line) -->
   <text x="92" y="432" font-family="'JetBrains Mono','SF Mono',Menlo,monospace" font-size="28" fill="#9B9092">React · Next.js · TypeScript · GSAP</text>
   <!-- footer -->
-  <text x="92" y="560" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" fill="#8A8082">Gland, Switzerland · English · French · Russian</text>
+  <text x="92" y="560" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" fill="#8A8082">Gland, Vaud, Switzerland · English · French · Russian</text>
 </svg>

@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  📍 Gland, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; English · French · Russian
+  📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; English · French · Russian
 </p>
 
 ---
