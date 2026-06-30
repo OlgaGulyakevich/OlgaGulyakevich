@@ -1,28 +1,51 @@
-# 👋 Hi, I'm Olga Gulyakevich
+<h1 align="center">👋 Hi, I'm Olga Gulyakevich</h1>
+<h3 align="center">Frontend Developer &nbsp;·&nbsp; React · Next.js · TypeScript · GSAP</h3>
 
-## Frontend Developer | React · Next.js · TypeScript · GSAP
+<p align="center"><i>Transforming designs into accessible, performant web experiences — with thoughtful animations and attention to every step of the user journey.</i></p>
 
-> Transforming designs into accessible, performant web experiences — with thoughtful animations and attention to every step of the user journey
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8E3B46&center=true&vCenter=true&width=620&height=55&lines=Hi%2C%20I%27m%20Olga%20%E2%80%94%20Frontend%20Developer;React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20GSAP;Accessible%2C%20performant%2C%20motion-rich%20web;Open%20to%20opportunities%20%E2%80%94%20let%27s%20connect" alt="Frontend Developer — React, Next.js, TypeScript, GSAP — accessible, performant, motion-rich web — open to opportunities" />
+</p>
 
-**Currently:** Web Studio Intern | Specializing in React ecosystem & modern CSS  
-**Focus:** React, Next.js, Astro, TypeScript, SASS modules, Tailwind, Animations & Motion Design, Responsive Design  
-**Location:** Gland, Switzerland 🇨🇭
+<p align="center">
+  <a href="#" title="Portfolio — coming soon">
+    <img src="assets/btn-portfolio.svg" height="46" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="#" title="Download CV — coming soon">
+    <img src="assets/btn-cv.svg" height="46" alt="My CV"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank">
+    <img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:olga.gulyakevi4@gmail.com">
+    <img src="assets/ic-email.svg" height="38" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/OlgaGulyakevich" target="_blank">
+    <img src="assets/ic-github.svg" height="38" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/OlgaGulyakevich" target="_blank">
+    <img src="assets/ic-telegram.svg" height="38" alt="Telegram"/>
+  </a>
+</p>
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-olga.gulyakevi4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:olga.gulyakevi4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gulyakevich-ab166674/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
-
-**Open to frontend opportunities from October 2026**
-
-</div>
+<p align="center">
+  📍 Gland, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; 🟢 Open to frontend opportunities from <b>October 2026</b>
+</p>
 
 ---
 
 ## Tech Stack & Proficiency
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,sass,tailwind,vite" alt="Core stack: React, Next.js, Astro, TypeScript, Sass, Tailwind, Vite" />
+</p>
 
 > **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying / familiar)
 
@@ -234,20 +257,49 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 
 ---
 
-### Get In Touch
+## 🌍 Connect With Me
 
-<div align="center">
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="90">
+        <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank">
+          <img src="assets/ic-linkedin.svg" height="52" alt="LinkedIn"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="mailto:olga.gulyakevi4@gmail.com">
+          <img src="assets/ic-email.svg" height="52" alt="Email"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://github.com/OlgaGulyakevich" target="_blank">
+          <img src="assets/ic-github.svg" height="52" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="90">
+        <a href="https://t.me/OlgaGulyakevich" target="_blank">
+          <img src="assets/ic-telegram.svg" height="52" alt="Telegram"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-olga.gulyakevi4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:olga.gulyakevi4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gulyakevich-ab166674/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FF6B6B?style=flat&logo=firefox&logoColor=white)](#)
+<p align="center"><i>Let's build something thoughtful, accessible and delightful together.</i></p>
 
----
+<!--
+  Top Languages card — staged but disabled.
+  The public github-readme-stats instance is currently paused (DEPLOYMENT_PAUSED), so this is
+  commented out to avoid a broken image. For 100% reliability, self-host:
+    1. Fork github.com/anuraghazra/github-readme-stats
+    2. Deploy to your own Vercel + add a GitHub PAT (PAT_1) env var
+    3. Replace YOUR-INSTANCE below with your Vercel domain, then uncomment.
+<p align="center">
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=8E3B46&icon_color=8E3B46&text_color=808080&langs_count=8" alt="Top Languages" />
+</p>
+-->
 
-**💙 Thanks for visiting my profile!**
-
-*Let's build something amazing together*
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich)
-
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich" alt="Visitor count" />
+</p>
