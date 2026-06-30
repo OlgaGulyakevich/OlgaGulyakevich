@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Olga Gulyakevich — Frontend Developer">
+  <!-- background: warm graphite with a hint of wine -->
+  <rect width="1200" height="630" fill="#211A1C"/>
+  <!-- subtle brand motif: faint rounded-tile outline echoing the contact icons -->
+  <rect x="858" y="176" width="278" height="278" rx="44" fill="none" stroke="#C25E6B" stroke-opacity="0.12" stroke-width="2"/>
+  <!-- accent bar -->
+  <rect x="90" y="190" width="72" height="7" rx="3.5" fill="#C25E6B"/>
+  <!-- name -->
+  <text x="90" y="298" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="72" font-weight="700" fill="#F4F1EF">Olga Gulyakevich</text>
+  <!-- role -->
+  <text x="90" y="372" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="40" font-weight="600" fill="#C25E6B">Frontend Developer</text>
+  <!-- stack (mono, echoes the typing line) -->
+  <text x="92" y="432" font-family="'JetBrains Mono','SF Mono',Menlo,monospace" font-size="28" fill="#9B9092">React · Next.js · TypeScript · GSAP</text>
+  <!-- footer -->
+  <text x="92" y="560" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="23" fill="#8A8082">Gland, Switzerland · English · French · Russian</text>
+</svg>

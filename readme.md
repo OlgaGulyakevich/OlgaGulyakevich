@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  📍 Gland, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; 🟢 Open to frontend opportunities from <b>October 2026</b>
+  📍 Gland, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; English · French · Russian
 </p>
 
 ---
@@ -224,7 +224,7 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - Web security (OWASP Top 10, CSP, auth flows)
 - UI Engineering — Canvas, WebGL, Three.js
 
-**Goal:** Frontend developer position — actively job-searching from October 2026
+**Goal:** Frontend developer role in Switzerland / EU · available from October 2026
 
 ---
 
