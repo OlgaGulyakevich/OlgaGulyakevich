@@ -4,7 +4,7 @@
 <p align="center"><i>Transforming designs into accessible, performant web experiences — with thoughtful animations and attention to every step of the user journey.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8E3B46&center=true&vCenter=true&width=620&height=55&lines=Hi%2C%20I%27m%20Olga%20%E2%80%94%20Frontend%20Developer;React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20GSAP;Accessible%2C%20performant%2C%20motion-rich%20web;Open%20to%20opportunities%20%E2%80%94%20let%27s%20connect" alt="Frontend Developer — React, Next.js, TypeScript, GSAP — accessible, performant, motion-rich web — open to opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C25E6B&center=true&vCenter=true&width=620&height=55&lines=Hi%2C%20I%27m%20Olga%20%E2%80%94%20Frontend%20Developer;React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20GSAP;Accessible%2C%20performant%2C%20motion-rich%20web;Open%20to%20opportunities%20%E2%80%94%20let%27s%20connect" alt="Frontend Developer — React, Next.js, TypeScript, GSAP — accessible, performant, motion-rich web — open to opportunities" />
 </p>
 
 <p align="center">
@@ -296,7 +296,7 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
     2. Deploy to your own Vercel + add a GitHub PAT (PAT_1) env var
     3. Replace YOUR-INSTANCE below with your Vercel domain, then uncomment.
 <p align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=8E3B46&icon_color=8E3B46&text_color=808080&langs_count=8" alt="Top Languages" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=C25E6B&icon_color=C25E6B&text_color=808080&langs_count=8" alt="Top Languages" />
 </p>
 -->
 
