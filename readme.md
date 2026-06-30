@@ -245,17 +245,9 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 
 <p align="center"><i>Let's build something thoughtful, accessible and delightful together.</i></p>
 
-<!--
-  Top Languages card — staged but disabled.
-  The public github-readme-stats instance is currently paused (DEPLOYMENT_PAUSED), so this is
-  commented out to avoid a broken image. For 100% reliability, self-host:
-    1. Fork github.com/anuraghazra/github-readme-stats
-    2. Deploy to your own Vercel + add a GitHub PAT (PAT_1) env var
-    3. Replace YOUR-INSTANCE below with your Vercel domain, then uncomment.
 <p align="center">
-  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=C25E6B&icon_color=C25E6B&text_color=808080&langs_count=8" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-gamma.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=C25E6B&icon_color=C25E6B&text_color=808080&langs_count=8" alt="Top Languages" />
 </p>
--->
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich" alt="Visitor count" />
