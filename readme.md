@@ -8,31 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="#" title="Portfolio — coming soon">
-    <img src="assets/btn-portfolio.svg" height="46" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="#" title="Download CV — coming soon">
-    <img src="assets/btn-cv.svg" height="46" alt="My CV"/>
-  </a>
+  <a href="#" title="Portfolio — coming soon"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio"/></a>&nbsp;<a href="#" title="Download CV — coming soon"><img src="assets/btn-cv.svg" height="46" alt="My CV"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank">
-    <img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:olga.gulyakevi4@gmail.com">
-    <img src="assets/ic-email.svg" height="38" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/OlgaGulyakevich" target="_blank">
-    <img src="assets/ic-github.svg" height="38" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://t.me/OlgaGulyakevich" target="_blank">
-    <img src="assets/ic-telegram.svg" height="38" alt="Telegram"/>
-  </a>
+  <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank"><img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="38" alt="Email"/></a>&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="38" alt="GitHub"/></a>&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="38" alt="Telegram"/></a>
 </p>
 
 <p align="center">
@@ -257,33 +237,10 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="90">
-        <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank">
-          <img src="assets/ic-linkedin.svg" height="52" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center" width="90">
-        <a href="mailto:olga.gulyakevi4@gmail.com">
-          <img src="assets/ic-email.svg" height="52" alt="Email"/>
-        </a>
-      </td>
-      <td align="center" width="90">
-        <a href="https://github.com/OlgaGulyakevich" target="_blank">
-          <img src="assets/ic-github.svg" height="52" alt="GitHub"/>
-        </a>
-      </td>
-      <td align="center" width="90">
-        <a href="https://t.me/OlgaGulyakevich" target="_blank">
-          <img src="assets/ic-telegram.svg" height="52" alt="Telegram"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank"><img src="assets/ic-linkedin.svg" height="54" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="54" alt="Email"/></a>&nbsp;&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="54" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="54" alt="Telegram"/></a>
 </p>
 
 <p align="center"><i>Let's build something thoughtful, accessible and delightful together.</i></p>
