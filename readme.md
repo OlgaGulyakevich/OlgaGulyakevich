@@ -31,7 +31,7 @@
 
 ### **Modern Frontend**
 - **Production:** React (Hooks, Context), Next.js (App Router, SSR/SSG), Astro (Islands), JS ES6+ / TypeScript, HTML5/CSS3 (Grid, Flexbox)
-- **Architecture:** SPA (React/Next) · MPA & static sites (Astro, vanilla)
+- **Architecture:** SPA (React) · SSR / SSG (Next.js) · MPA & Static Sites (Astro, Vanilla)
 - **Working:** Zustand, Context API, Zod, Vite, Webpack
 - **Learning:** React Query, Feature-Sliced Design (FSD), Redux Toolkit
 
