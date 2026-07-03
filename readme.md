@@ -30,7 +30,7 @@
 > **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying / familiar)
 
 ### **Modern Frontend**
-- **Production:** React (Hooks, Context), Next.js (App Router, SSR/SSG), Astro (Islands), JS ES6+ / TypeScript, HTML5/CSS3 (Grid, Flexbox)
+- **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), JS ES6+ / TypeScript, HTML5/CSS3 (Grid, Flexbox)
 - **Architecture:** SPA (React) · SSR / SSG (Next.js) · MPA & Static Sites (Astro, Vanilla)
 - **Working:** Zustand, Context API, Zod, Vite, Webpack
 - **Learning:** React Query, Feature-Sliced Design (FSD), Redux Toolkit
@@ -58,7 +58,7 @@
 
 | Project | Stack | Demo | Highlights |
 |---------|-------|------|------------|
-| [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · Webpack · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
+| [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · React Router · Webpack · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
 | [**Internship Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [View&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | 4 Swiper configs · SVG mask shapes · sliding window pagination · dynamic tabs |
 | [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm&nbsp;→](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, padding trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
 
