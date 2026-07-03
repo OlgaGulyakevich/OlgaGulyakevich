@@ -115,7 +115,7 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - **User-Centered:** Every decision prioritizes user experience
 - **Performance-First:** Beautiful designs optimized for speed
 - **Accessibility:** WCAG compliance from day one
-- **Clean Code:** Maintainable, well-documented solutions
+- **Clean Code:** Maintainable, well-documented solutions, SOLID principles, DRY & KISS
 - **Adaptable:** Comfortable with modern React, static sites, or legacy codebases
 
 ---
