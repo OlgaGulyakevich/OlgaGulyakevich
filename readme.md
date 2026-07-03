@@ -29,103 +29,28 @@
 
 > **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying / familiar)
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
 ### **Modern Frontend**
-**Production:**
-- React (Hooks, Context, performance)
-- Next.js (App Router, SSR/SSG)
-- Astro (Islands architecture, SSG)
-- JavaScript ES6+ / TypeScript
-- HTML5 (semantic, accessibility)
-- CSS3 (Grid, Flexbox, animations)
+- **Production:** React (Hooks, Context), Next.js (App Router, SSR/SSG), Astro (Islands), JS ES6+ / TypeScript, HTML5/CSS3 (Grid, Flexbox)
 - **Architecture:** SPA (React/Next) · MPA & static sites (Astro, vanilla)
-
-**Working:**
-- Zustand · Context API
-- Zod (schema validation, typed boundaries)
-- Vite · Webpack 5 (custom config)
-
-**Learning:**
-- React Query (TanStack Query)
-- Redux Toolkit *(legacy/enterprise — prefer Zustand for new projects)*
-- Feature-Sliced Design (FSD)
-
-</td>
-<td width="50%" valign="top">
+- **Working:** Zustand, Context API, Zod, Vite, Webpack 5
+- **Learning:** React Query, Feature-Sliced Design (FSD), Redux Toolkit
 
 ### **Styling & Design**
-**CSS Expertise:**
-- Sass/SCSS · BEM methodology · Tailwind CSS
-- Styled Components
-- Responsive / mobile-first design
-
-**Advanced CSS Techniques:**
-- SVG masks & custom shapes
-- GPU-accelerated animations (transform/opacity only)
-- Scroll-driven & entrance animations
-- Micro-interactions & tactile UI feedback
-- View Transition API
-- `prefers-reduced-motion` — always
-- Defensive CSS patterns
-
-**Animation Libraries:**
-- GSAP (ScrollTrigger, timeline animations)
-
-**Design Implementation:**
-- Figma-to-code workflows
-- Design system development
-- Motion design — user journey analysis
-- WCAG AA accessibility
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- **Core Styling:** Sass/SCSS, BEM, Tailwind CSS, Styled Components, Responsive / mobile-first design
+- **Advanced CSS:** SVG masks & custom shapes, Defensive CSS patterns, View Transition API
+- **Motion UI:** GPU-accelerated animations (transform/opacity only), Scroll-driven & entrance animations, GSAP (ScrollTrigger, timelines)
+- **UX Details:** Micro-interactions & tactile UI feedback, `prefers-reduced-motion` — always
+- **Design Implementation:** Figma-to-code, Design system development, Motion design (user journey analysis), WCAG AA accessibility
 
 ### **CMS & Integrations**
-**Production:**
-- **CMS-ready markup** — semantic HTML structured for CMS integration (classes-on-tags, cascade styling, content-editable zones)
-
-**Learning:**
-- Headless CMS — **Sanity** (UGC Creator Portfolio) · **Payload** (Portfolio v2, TS-native CMS + backend)
-
-**Familiar:**
-- PHP & jQuery in legacy contexts
-- Progressive enhancement
-- REST API integration
-
-</td>
-<td width="50%" valign="top">
+- **Production:** CMS-ready markup (semantic HTML, content-editable zones)
+- **Learning:** Headless CMS (Sanity, Payload)
+- **Familiar:** REST API, Progressive enhancement, PHP & jQuery (legacy)
 
 ### **Quality & Deployment**
-**Testing & Quality:**
-- Jest / Vitest, React Testing Library
-- Manual QA processes
-- Cross-browser testing
-- BackstopJS (visual regression)
-- Accessibility audits
-- Multi-stage linting pipeline (W3C, HTML, CSS, BEM, JS, file naming)
-- Automated image optimization (WebP conversion, srcset)
-
-**Performance:**
-- Lighthouse optimization (95+/100)
-- Core Web Vitals monitoring
-- Critical CSS (inlined in base build)
-- Bundle size optimization
-- WebP image pipelines
-
-**Deployment:**
-- GitHub Pages + Actions
-- Netlify, Vercel
-- npm package publishing (@gulyakevich/optikit)
-- Git workflows & collaboration
-
-</td>
-</tr>
-</table>
+- **Testing:** Jest/Vitest, React Testing Library, BackstopJS, a11y audits, Multi-stage linting
+- **Performance:** Lighthouse 95+, Core Web Vitals, Critical CSS, WebP pipelines, Bundle optimization
+- **Deployment:** GitHub Pages/Actions, Netlify, Vercel, npm publishing, Git workflows
 
 ---
 
@@ -133,9 +58,9 @@
 
 | Project | Stack | Demo | Highlights |
 |---------|-------|------|------------|
-| [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · Webpack 5 · i18next | [Play →](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
-| [**Internship Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [View →](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | 4 Swiper configs · SVG mask shapes · sliding window pagination · dynamic tabs |
-| [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm →](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, padding trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
+| [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · Webpack 5 · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
+| [**Internship Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [View&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | 4 Swiper configs · SVG mask shapes · sliding window pagination · dynamic tabs |
+| [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm&nbsp;→](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, padding trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
 
 <details>
 <summary><b>Additional Projects & Work in Progress</b></summary>
@@ -177,21 +102,14 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 
 ## What I Bring to Your Team
 
-<table>
-<tr>
-<td width="50%">
-
-### **Core Strengths**
+### Core Strengths
 - **Strong React Skills** — Hooks, performance optimization, best practices
 - **Design Implementation** — Figma-to-pixel-perfect responsive code
 - **Quality-First Mindset** — Accessibility, performance, comprehensive testing
 - **Animation & Motion Design** — Thoughtful UI animations, micro-interactions, user journey focus
 - **Fast Learner** — Constantly upskilling with latest technologies
 
-</td>
-<td width="50%">
-
-### **Development Philosophy**
+### Development Philosophy
 > *"Great interfaces are not just built — they're felt"*
 
 - **User-Centered:** Every decision prioritizes user experience
@@ -200,19 +118,19 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 - **Clean Code:** Maintainable, well-documented solutions
 - **Adaptable:** Comfortable with modern React, static sites, or legacy codebases
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## Learning Journey & Experience
 
-**Education & Training:**
+### Experience
 - **Web Studio Internship** *(In Progress · Oct 2025 – present)* — production client projects:
   - **Loyalty program promo site** — GSAP animation sequences, View Transitions API, winners table with filters, search & tooltips; prize carousel (Swiper)
+  - **Travel companion platform** — built project scaffolding (Vite, Handlebars partials, SCSS architecture) enabling seamless parallel development for the team; implemented complex UI logic: multi-criteria filters, country sorting, robust pagination, and adaptive data cards.
   - **Online course aggregator** — mega menu, tabs, Fluid Layout 320–1920px, Swiper.js
   - **Cross-cutting contributions:** UX audit (proposed replacing tab-based navigation with radio buttons in the checkout flow to reduce friction and improve conversion; simplified user journey to 3 steps: read → select → continue); accessibility audit — WCAG AA fixes: keyboard navigation, focus management, ARIA labels; cross-browser & cross-device QA; responsive redesign for updated breakpoints
+
+### Education & Training
+- **MSc in Information and Computer Science** — State University of Aerospace Instrumentation, St. Petersburg (2009)
 - **HTML Academy** *(Completed)* — Adaptive Layout, Web Interfaces, Automation & Tooling, JavaScript, React
 - **CodeAcademy Front-End Engineer Path** *(Completed)* — React, Redux, Testing, Deployment
 - **Whimsical Animations** *(In Progress)* — Josh W. Comeau — motion design, spring physics, delightful UI
