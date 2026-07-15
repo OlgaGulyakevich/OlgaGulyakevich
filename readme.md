@@ -27,11 +27,11 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,sass,tailwind,vite" alt="Core stack: React, Next.js, Astro, TypeScript, Sass, Tailwind, Vite" />
 </p>
 
-> **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying / familiar)
+> **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying) · **Familiar** (hands-on exposure)
 
 ### **Modern Frontend**
-- **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), JS ES6+ / TypeScript, HTML5/CSS3 (Grid, Flexbox)
-- **Architecture:** SPA (React) · SSR / SSG (Next.js) · MPA & Static Sites (Astro, Vanilla)
+- **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), TypeScript / JavaScript (ES6+), HTML5/CSS3 (Grid, Flexbox)
+- **Architecture:** SPA (React) · SSR/SSG (Next.js) · MPA & Static Sites (Astro, Vanilla)
 - **Working:** Zustand, Context API, Zod, Vite, Webpack
 - **Learning:** React Query, Feature-Sliced Design (FSD), Redux Toolkit
 
@@ -44,11 +44,12 @@
 
 ### **CMS & Integrations**
 - **Production:** CMS-ready markup (semantic HTML, content-editable zones)
+- **Working:** REST API integration
 - **Learning:** Headless CMS (Sanity, Payload)
-- **Familiar:** REST API, Progressive enhancement, PHP & jQuery (legacy)
+- **Familiar:** Progressive enhancement, PHP & jQuery (legacy)
 
 ### **Quality & Deployment**
-- **Testing:** Jest/Vitest, React Testing Library, BackstopJS, a11y audits, Multi-stage linting
+- **Testing:** Vitest/Jest, React Testing Library, BackstopJS, a11y audits, Multi-stage linting
 - **Performance:** Lighthouse 95+, Core Web Vitals, Critical CSS, WebP pipelines, Bundle optimization
 - **Deployment:** GitHub Pages/Actions, Netlify, Vercel, npm publishing, Git workflows
 
@@ -60,7 +61,7 @@
 |---------|-------|------|------------|
 | [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · React Router · Webpack · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
 | [**Internship Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [View&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | 4 Swiper configs · SVG mask shapes · sliding window pagination · dynamic tabs |
-| [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm&nbsp;→](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, padding trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
+| [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm&nbsp;→](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, transparency trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
 
 <details>
 <summary><b>Additional Projects & Work in Progress</b></summary>
@@ -81,7 +82,7 @@ Will include a **Lab / Experiments** section — a curated gallery of interactiv
 Animated landing page for a creative agency — scroll-driven animations, motion design, immersive UI. Private repository.
 
 **Spreent Academy — Competitive Frontend Project**
-*Vite • Vanilla JS • Sass (SCSS) • BEM · Astro migration in progress*
+*Vite • Vanilla JS • Sass (SCSS) • BEM — Astro migration in progress*
 Pixel-perfect competitive build: Fluid Layout via clamp() with custom `fluid-val()` mixin, magnetic CTA, paint-fill logo reveal, lerp parallax, CSS-only geometry (mask-image avatars, glass mockup), content-visibility: auto, full a11y.
 
 **UGC Creator Portfolio**
@@ -94,7 +95,7 @@ E-commerce project — online store for framed prints and photography. Full-stac
 
 **Mysterious Vacation — Advanced Animation Project**
 *Vanilla JS • CSS • SVG • Canvas • Three.js*
-Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: spring-physics list reveals, stagger chains, wheel-roll pagination, SVG path drawing & SMIL illustrations, Canvas low-level drawing, Three.js 3D scene with camera rig, cursor-reactive viewport, Post-Processing effects.
+Fullscreen scroll-controlled experience with locked transitions, 13 choreographed sequences: spring-physics list reveals, stagger chains, wheel-roll pagination, SVG path drawing & SMIL illustrations, Canvas low-level drawing, Three.js 3D scene with camera rig, cursor-reactive viewport, Post-Processing effects.
 
 </details>
 
@@ -125,20 +126,20 @@ Fullscreen scroll-jacking with locked transitions, 13 choreographed sequences: s
 ### Experience
 - **Web Studio Internship** *(In Progress · Oct 2025 – present)* — production client projects:
   - **Loyalty program promo site** — GSAP animation sequences, View Transitions API, winners table with filters, search & tooltips; prize carousel (Swiper)
-  - **Travel companion platform** — built project scaffolding (Vite, Handlebars partials, SCSS architecture) enabling seamless parallel development for the team; implemented complex UI logic: multi-criteria filters, country sorting, robust pagination, and adaptive data cards.
+  - **Travel companion platform** — built project scaffolding (Vite, Handlebars partials, SCSS architecture) enabling seamless parallel development for the team; implemented complex UI logic: multi-criteria filters, country sorting, robust pagination, and responsive data cards
   - **Online course aggregator** — mega menu, tabs, Fluid Layout 320–1920px, Swiper.js
   - **Cross-cutting contributions:** UX audit (proposed replacing tab-based navigation with radio buttons in the checkout flow to reduce friction and improve conversion; simplified user journey to 3 steps: read → select → continue); accessibility audit — WCAG AA fixes: keyboard navigation, focus management, ARIA labels; cross-browser & cross-device QA; responsive redesign for updated breakpoints
 
 ### Education & Training
-- **MSc in Information and Computer Science** — State University of Aerospace Instrumentation, St. Petersburg (2009)
+- **MSc in Information and Computer Science** — Saint Petersburg State University of Aerospace Instrumentation (SUAI), 2009
 - **HTML Academy** *(Completed)* — Adaptive Layout, Web Interfaces, Automation & Tooling, JavaScript, React
-- **CodeAcademy Front-End Engineer Path** *(Completed)* — React, Redux, Testing, Deployment
+- **Codecademy Front-End Engineer Path** *(Completed)* — React, Redux, Testing, Deployment
 - **Whimsical Animations** *(In Progress)* — Josh W. Comeau — motion design, spring physics, delightful UI
 - **Animations on the Web** *(Upcoming)* — Emil Kowalski (animations.dev) — animation principles, Motion (Framer Motion), interruptible animations, performance & taste-driven product motion
 
 **Current Focus (2026):**
 - Advanced React architecture & design patterns
-- Protocols & networking (HTTP/S, WebSocket fundamentals)
+- Protocols & networking (HTTP/HTTPS, WebSocket fundamentals)
 - Web security (OWASP Top 10, CSP, auth flows)
 - UI Engineering — Canvas, WebGL, Three.js
 
