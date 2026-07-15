@@ -33,7 +33,7 @@
 - **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), TypeScript / JavaScript (ES6+), HTML5/CSS3 (Grid, Flexbox)
 - **Architecture:** SPA (React) · SSR/SSG (Next.js) · MPA & Static Sites (Astro, Vanilla)
 - **Working:** Zustand, Context API, Zod, Vite, Webpack
-- **Learning:** React Query, Feature-Sliced Design (FSD), Redux Toolkit
+- **Learning:** TanStack Query (React Query), Feature-Sliced Design (FSD), Redux Toolkit
 
 ### **Styling & Design**
 - **Core Styling:** Sass/SCSS, BEM, Tailwind CSS, Styled Components, Responsive / mobile-first design
