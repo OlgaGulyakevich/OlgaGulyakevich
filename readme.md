@@ -124,11 +124,15 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 ## Learning Journey & Experience
 
 ### Experience
-- **Web Studio Internship** *(In Progress · Oct 2025 – present)* — production client projects:
-  - **Loyalty program promo site** — GSAP animation sequences, View Transitions API, winners table with filters, search & tooltips; prize carousel (Swiper)
-  - **Travel companion platform** — built project scaffolding (Vite, Handlebars partials, SCSS architecture) enabling seamless parallel development for the team; implemented complex UI logic: multi-criteria filters, country sorting, robust pagination, and responsive data cards
-  - **Online course aggregator** — mega menu, tabs, Fluid Layout 320–1920px, Swiper.js
-  - **Cross-cutting contributions:** UX audit (proposed replacing tab-based navigation with radio buttons in the checkout flow to reduce friction and improve conversion; simplified user journey to 3 steps: read → select → continue); accessibility audit — WCAG AA fixes: keyboard navigation, focus management, ARIA labels; cross-browser & cross-device QA; responsive redesign for updated breakpoints
+- **Web Studio Internship** *(Oct 2025 – present)* — UI development across production client projects (promo site, travel companion platform, online course aggregator, and more):
+  - **Design implementation** — pixel-perfect build of Figma layouts across breakpoints
+  - **Reusable UI components** — accessible modals (focus trap, scroll-lock), custom selects, forms with inline validation, tabs, accordions, mega menu, pagination, tooltips, Swiper carousels — built with a consistent architecture in each client project
+  - **Complex UI logic** — multi-criteria filters, searchable tables with tooltips, sorting, robust pagination, responsive data cards
+  - **Motion & transitions** — GSAP animation sequences, View Transitions API, fine-tuned easing & timing, tactile micro-interactions built as reusable SCSS mixins (press/release button states)
+  - **Performance** — Lighthouse-audited optimizations: WebP/srcset image pipelines (incl. my own [optikit](https://www.npmjs.com/package/@gulyakevich/optikit) CLI), lazy loading, code-splitting, critical CSS, font loading
+  - **Project scaffolding** — Vite + Handlebars partials + SCSS architecture with multi-stage linting and pre-commit enforcement (Husky), enabling parallel team development
+  - **UX & accessibility** — audit-driven improvements: checkout simplified to 3 steps — read → select → continue (radio buttons over tab navigation); range sliders replaced with text inputs / range checkboxes for precise, accessible entry; WCAG AA fixes — keyboard navigation, focus management, ARIA labels
+  - **Client collaboration & QA** — presented finished solutions to clients; cross-browser & cross-device testing, fluid/responsive layouts (320–1920 px)
 
 ### Education & Training
 - **MSc in Information and Computer Science** — Saint Petersburg State University of Aerospace Instrumentation (SUAI), 2009
