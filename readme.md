@@ -168,9 +168,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 
 <p align="center"><i>Let's build something thoughtful, accessible and delightful together.</i></p>
 
-<p align="center">
-  <img src="https://github-stats-extended-frontend-gamma.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=C25E6B&icon_color=C25E6B&text_color=808080&langs_count=8" alt="Top Languages" />
-</p>
+<p align="center"><b>Most Used Languages</b><br/><img src="https://github-stats-extended-frontend-gamma.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=C25E6B&icon_color=C25E6B&text_color=808080&langs_count=8&hide_title=true" alt="Top Languages" /></p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich&left_color=%232B2B2B&right_color=%238E3B46" alt="Visitor count" />
