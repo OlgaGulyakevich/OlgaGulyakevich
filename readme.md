@@ -19,7 +19,7 @@
   📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; English · French · Russian
 </p>
 
----
+<p align="center"><img src="assets/wave-divider.svg" width="100%" alt=""/></p>
 
 ## Tech Stack & Proficiency
 
@@ -158,7 +158,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 - Product teams where UI quality, accessibility & performance matter
 - Teams with mentorship and growth potential
 
----
+<p align="center"><img src="assets/wave-divider.svg" width="100%" alt=""/></p>
 
 ## Get in Touch
 
@@ -173,5 +173,5 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich" alt="Visitor count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich&left_color=%232B2B2B&right_color=%238E3B46" alt="Visitor count" />
 </p>

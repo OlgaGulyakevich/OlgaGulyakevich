@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" role="img" aria-label="">
+  <style>
+    .w1 { animation: drift 26s linear infinite; }
+    .w2 { animation: drift 40s linear infinite reverse; }
+    @keyframes drift { to { transform: translateX(-150px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .w1, .w2 { animation: none; }
+    }
+  </style>
+  <g class="w1">
+    <path d="M0,14 c25,-9 50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0"
+          fill="none" stroke="#C25E6B" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
+  </g>
+  <g transform="translate(-75,0)">
+    <g class="w2">
+      <path d="M0,14 c25,-9 50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0 s50,9 75,0 s50,-9 75,0"
+            fill="none" stroke="#8E3B46" stroke-width="2" stroke-linecap="round" opacity="0.35"/>
+    </g>
+  </g>
+</svg>
