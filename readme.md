@@ -4,7 +4,7 @@
 <p align="center"><i>Transforming designs into accessible, performant web experiences —<br/>with thoughtful animations and attention to every step of the user journey.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C25E6B&center=true&vCenter=true&width=620&height=55&lines=Hi%2C%20I%27m%20Olga%20%E2%80%94%20Frontend%20Developer;React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20GSAP;Accessible%2C%20performant%2C%20motion-rich%20web;Open%20to%20opportunities%20%E2%80%94%20let%27s%20talk" alt="Frontend Developer — React, Next.js, TypeScript, GSAP — accessible, performant, motion-rich web — open to opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=800&color=C25E6B&center=true&vCenter=true&width=620&height=55&lines=PageSpeed%20100%20%C2%B7%20100%20%C2%B7%20100%20%C2%B7%20100;WCAG%20AA%20%E2%80%94%20accessibility%20from%20day%20one;Published%20npm%20package%20%E2%80%94%20optikit%20CLI;Motion%20with%20a%20job%2C%20never%20decoration;Open%20to%20frontend%20roles%20%E2%80%94%20let%27s%20talk" alt="PageSpeed 100/100/100/100 — WCAG AA accessibility from day one — published npm package optikit CLI — motion with a job, never decoration — open to frontend roles, let's talk" />
 </p>
 
 <p align="center">
@@ -30,12 +30,14 @@
 > **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying) · **Familiar** (hands-on exposure)
 
 ### **Modern Frontend**
+
 - **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), TypeScript / JavaScript (ES6+), HTML5/CSS3 (Grid, Flexbox)
 - **Architecture:** SPA (React) · SSR/SSG (Next.js) · MPA & Static Sites (Astro, Vanilla)
 - **Working:** Zustand, Context API, Zod, Vite, Webpack
 - **Learning:** TanStack Query (React Query), Feature-Sliced Design (FSD), Redux Toolkit
 
 ### **Styling & Design**
+
 - **Core Styling:** Sass/SCSS, BEM, Tailwind CSS, Styled Components, Responsive / mobile-first design
 - **Advanced CSS:** SVG masks & custom shapes, Defensive CSS patterns, View Transition API
 - **Motion UI:** GPU-accelerated animations (transform/opacity only), Scroll-driven & entrance animations, GSAP (ScrollTrigger, timelines)
@@ -43,30 +45,44 @@
 - **Design Implementation:** Figma-to-code, Design system development, Motion design (user journey analysis), WCAG AA accessibility
 
 ### **CMS & Integrations**
+
 - **Production:** CMS-ready markup (semantic HTML, content-editable zones)
 - **Working:** REST API integration
 - **Learning:** Headless CMS (Sanity, Payload)
 - **Familiar:** Progressive enhancement, PHP & jQuery (legacy)
 
 ### **Quality & Deployment**
+
 - **Testing:** Vitest/Jest, React Testing Library, BackstopJS, a11y audits, Multi-stage linting
-- **Performance:** Lighthouse 95+, Core Web Vitals, Critical CSS, WebP pipelines, Bundle optimization
+- **Performance:** Lighthouse / PageSpeed up to 100, Core Web Vitals, Critical CSS, WebP pipelines, Bundle optimization
 - **Deployment:** GitHub Pages/Actions, Netlify, Vercel, npm publishing, Git workflows
 
 ---
 
 ## Featured Projects
 
+<p align="center">
+  <a href="https://spreent-academy-frontend.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/spreent-static.webp"/><img src="assets/spreent-teaser.gif" width="800" alt="Spreent Academy — scroll-through of the landing: hero parallax, magnetic CTA, paint-fill logo reveal"/></picture></a>
+</p>
+
 | Project | Stack | Demo | Highlights |
-|---------|-------|------|------------|
-| [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · React Router · Webpack · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
-| [**Internship Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [View&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | 4 Swiper configs · SVG mask shapes · sliding window pagination · dynamic tabs |
+| --------- | ------- | ------ | ------------ |
+| [**Spreent Academy**](https://github.com/OlgaGulyakevich/spreent-academy-frontend) | Astro · TypeScript (strict) · SCSS/BEM · Vitest · Playwright | [Live&nbsp;→](https://spreent-academy-frontend.vercel.app) | **PageSpeed 100 · 100 · 100 · 100** · 18 motion effects + [Motion catalog](https://spreent-academy-frontend.vercel.app/ui-kit) · magnetic CTA · paint-fill logo · shimmer that fires only when the user hesitates · `prefers-reduced-motion` throughout |
 | [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm&nbsp;→](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, transparency trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
+| [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · React Router · Webpack · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
 
 <details>
 <summary><b>Additional Projects & Work in Progress</b></summary>
 
+### Also Shipped
+
+**[Internship Landing](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui)** — *Vite • Vanilla JS • SCSS • Swiper.js* — [View&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/)
+Pixel-perfect educational program landing: 4 Swiper configs, SVG mask shapes, sliding-window pagination, dynamic tabs.
+
+---
+
 ### Personal Portfolio v2.0
+
 *Next.js • TypeScript • Tailwind CSS • Payload*
 
 Will include a **Lab / Experiments** section — a curated gallery of interactive animation & micro-interaction demos (motion craft showcase).
@@ -80,10 +96,6 @@ Will include a **Lab / Experiments** section — a curated gallery of interactiv
 **Creative Agency Landing**
 *Vite • Vanilla JS • GSAP • SCSS*
 Animated landing page for a creative agency — scroll-driven animations, motion design, immersive UI. Private repository.
-
-**Spreent Academy — Competitive Frontend Project**
-*Vite • Vanilla JS • Sass (SCSS) • BEM — Astro migration in progress*
-Pixel-perfect competitive build: Fluid Layout via clamp() with custom `fluid-val()` mixin, magnetic CTA, paint-fill logo reveal, lerp parallax, CSS-only geometry (mask-image avatars, glass mockup), content-visibility: auto, full a11y.
 
 **UGC Creator Portfolio**
 *Next.js • TypeScript • Tailwind • Sanity*
@@ -104,6 +116,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 ## What I Bring to Your Team
 
 ### Core Strengths
+
 - **Strong React Skills** — Hooks, performance optimization, best practices
 - **Design Implementation** — Figma-to-pixel-perfect responsive code
 - **Quality-First Mindset** — Accessibility, performance, comprehensive testing
@@ -111,6 +124,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 - **Fast Learner** — Constantly upskilling with latest technologies
 
 ### Development Philosophy
+>
 > *"Great interfaces are not just built — they're felt"*
 
 - **User-Centered:** Every decision prioritizes user experience
@@ -124,6 +138,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 ## Learning Journey & Experience
 
 ### Experience
+
 - **Web Studio Internship** *(Oct 2025 – present)* — UI development across production client projects (promo site, travel companion platform, online course aggregator, and more):
   - **Design implementation** — pixel-perfect build of Figma layouts across breakpoints
   - **Reusable UI components** — accessible modals (focus trap, scroll-lock), custom selects, forms with inline validation, tabs, accordions, mega menu, pagination, tooltips, Swiper carousels — built with a consistent architecture in each client project
@@ -135,6 +150,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
   - **Client collaboration & QA** — presented finished solutions to clients; cross-browser & cross-device testing, fluid/responsive layouts (320–1920 px)
 
 ### Education & Training
+
 - **MSc in Information and Computer Science** — Saint Petersburg State University of Aerospace Instrumentation (SUAI), 2009
 - **HTML Academy** *(Completed)* — Adaptive Layout, Web Interfaces, Automation & Tooling, JavaScript, React
 - **Codecademy Front-End Engineer Path** *(Completed)* — React, Redux, Testing, Deployment
@@ -142,6 +158,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 - **Animations on the Web** *(Upcoming)* — Emil Kowalski (animations.dev) — animation principles, Motion (Framer Motion), interruptible animations, performance & taste-driven product motion
 
 **Current Focus (2026):**
+
 - Advanced React architecture & design patterns
 - Protocols & networking (HTTP/HTTPS, WebSocket fundamentals)
 - Web security (OWASP Top 10, CSP, auth flows)
@@ -167,9 +184,3 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 </p>
 
 <p align="center"><i>Let's build something thoughtful, accessible and delightful together.</i></p>
-
-<p align="center"><b>Most Used Languages</b><br/><img src="https://github-stats-extended-frontend-gamma.vercel.app/api/top-langs/?username=OlgaGulyakevich&layout=compact&hide_border=true&bg_color=00000000&title_color=C25E6B&icon_color=C25E6B&text_color=808080&langs_count=8&hide_title=true" alt="Top Languages" /></p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OlgaGulyakevich.OlgaGulyakevich&left_color=%232B2B2B&right_color=%238E3B46" alt="Visitor count" />
-</p>
