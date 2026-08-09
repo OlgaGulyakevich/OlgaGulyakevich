@@ -55,7 +55,7 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://spreent-academy-frontend.vercel.app"><img src="assets/spreent-static.webp" width="640" alt="Spreent Academy landing page — click to open the live site"/></a>
+  <a href="https://spreent-academy-frontend.vercel.app"><img src="assets/spreent-static.webp" width="100%" alt="Spreent Academy landing page — click to open the live site"/></a>
 </p>
 
 | Project | Stack | Demo | Highlights |
