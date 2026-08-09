@@ -67,7 +67,7 @@
 
 | Project | Stack | Demo | Highlights |
 | --------- | ------- | ------ | ------------ |
-| [**Spreent Academy**](https://github.com/OlgaGulyakevich/spreent-academy-frontend) | Astro · TypeScript (strict) · SCSS/BEM · Vitest · Playwright | [Live&nbsp;→](https://spreent-academy-frontend.vercel.app) | **PageSpeed 100 · 100 · 100 · 100** · 18 motion effects + [Motion catalog](https://spreent-academy-frontend.vercel.app/ui-kit) · magnetic CTA · paint-fill logo · shimmer that fires only when the user hesitates · `prefers-reduced-motion` throughout |
+| [**Spreent Academy**](https://github.com/OlgaGulyakevich/spreent-academy-frontend) | Astro · TypeScript (strict) · SCSS/BEM · Vitest · Playwright | [Live&nbsp;→](https://spreent-academy-frontend.vercel.app) | **PageSpeed 100 · 100 · 100 · 100** · 18 motion effects + [Motion catalog](https://spreent-academy-frontend.vercel.app/ui-kit#motion) · magnetic CTA · paint-fill logo · shimmer that fires only when the user hesitates · `prefers-reduced-motion` throughout |
 | [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript · Node · Zod · Vitest | [npm&nbsp;→](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, transparency trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
 | [**Memory Game**](https://github.com/OlgaGulyakevich/memory-game) | React · React Router · Webpack · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | i18n EN/FR/RU · 3D card animations · WCAG AA · custom Webpack |
 
@@ -76,7 +76,7 @@
 
 ### Also Shipped
 
-**[Internship Landing](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui)** — *Vite • Vanilla JS • SCSS • Swiper.js* — [View&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/)
+**[Internship Landing](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui)** — *Vite • Vanilla JS • SCSS • Swiper.js* — [Live&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/)
 Pixel-perfect educational program landing: 4 Swiper configs, SVG mask shapes, sliding-window pagination, dynamic tabs.
 
 ---
