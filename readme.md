@@ -31,38 +31,31 @@
 
 ### **Modern Frontend**
 
-- **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), TypeScript / JavaScript (ES6+), HTML5/CSS3 (Grid, Flexbox)
-- **Architecture:** SPA (React) · SSR/SSG (Next.js) · MPA & Static Sites (Astro, Vanilla)
-- **Working:** Zustand, Context API, Zod, Vite, Webpack
-- **Learning:** TanStack Query (React Query), Feature-Sliced Design (FSD), Redux Toolkit
+- **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), TypeScript / JavaScript (ES6+), HTML5/CSS3 (Grid, Flexbox) — across SPA, SSR/SSG, MPA & static architectures
+- **Working:** Zustand, Context API, Zod, Vite, Webpack · **Learning:** TanStack Query, Feature-Sliced Design (FSD), Redux Toolkit
 
 ### **Styling & Design**
 
-- **Core Styling:** Sass/SCSS, BEM, Tailwind CSS, Styled Components, Responsive / mobile-first design
-- **Advanced CSS:** SVG masks & custom shapes, Defensive CSS patterns, View Transition API
-- **Motion UI:** GPU-accelerated animations (transform/opacity only), Scroll-driven & entrance animations, GSAP (ScrollTrigger, timelines)
-- **UX Details:** Micro-interactions & tactile UI feedback, `prefers-reduced-motion` — always
-- **Design Implementation:** Figma-to-code, Design system development, Motion design (user journey analysis), WCAG AA accessibility
+- **Core styling:** Sass/SCSS, BEM, Tailwind CSS, Styled Components, responsive / mobile-first · SVG masks & custom shapes, Defensive CSS, View Transition API
+- **Motion UI:** GPU-accelerated animations (transform/opacity only), scroll-driven & entrance animations, GSAP (ScrollTrigger, timelines), tactile micro-interactions, `prefers-reduced-motion` — always
+- **Design implementation:** Figma-to-code, design system development, motion design (user journey analysis), WCAG AA accessibility
 
 ### **CMS & Integrations**
 
-- **Production:** CMS-ready markup (semantic HTML, content-editable zones)
-- **Working:** REST API integration
-- **Learning:** Headless CMS (Sanity, Payload)
-- **Familiar:** Progressive enhancement, PHP & jQuery (legacy)
+- **Production:** CMS-ready markup (semantic HTML, content-editable zones) · **Working:** REST API integration
+- **Learning:** Headless CMS (Sanity, Payload) · **Familiar:** progressive enhancement, PHP & jQuery (legacy)
 
 ### **Quality & Deployment**
 
-- **Testing:** Vitest/Jest, React Testing Library, BackstopJS, a11y audits, Multi-stage linting
-- **Performance:** Lighthouse / PageSpeed up to 100, Core Web Vitals, Critical CSS, WebP pipelines, Bundle optimization
-- **Deployment:** GitHub Pages/Actions, Netlify, Vercel, npm publishing, Git workflows
+- **Testing:** Vitest/Jest, React Testing Library, Playwright (e2e + visual regression), BackstopJS, a11y audits, multi-stage linting
+- **Performance & deployment:** Lighthouse / PageSpeed up to 100, Core Web Vitals, Critical CSS, WebP pipelines, bundle optimization · GitHub Pages/Actions, Netlify, Vercel, npm publishing
 
 ---
 
 ## Featured Projects
 
 <p align="center">
-  <a href="https://spreent-academy-frontend.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/spreent-static.webp"/><img src="assets/spreent-teaser.gif" width="800" alt="Spreent Academy — scroll-through of the landing: hero parallax, magnetic CTA, paint-fill logo reveal"/></picture></a>
+  <a href="https://spreent-academy-frontend.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/spreent-static.webp"/><img src="assets/spreent-teaser.gif" width="560" alt="Spreent Academy — scroll-through of the landing: hero parallax, magnetic CTA, paint-fill logo reveal"/></picture></a>
 </p>
 
 | Project | Stack | Demo | Highlights |
@@ -113,25 +106,14 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 
 ---
 
-## What I Bring to Your Team
+## Development Philosophy
 
-### Core Strengths
-
-- **Strong React Skills** — Hooks, performance optimization, best practices
-- **Design Implementation** — Figma-to-pixel-perfect responsive code
-- **Quality-First Mindset** — Accessibility, performance, comprehensive testing
-- **Animation & Motion Design** — Thoughtful UI animations, micro-interactions, user journey focus
-- **Fast Learner** — Constantly upskilling with latest technologies
-
-### Development Philosophy
->
 > *"Great interfaces are not just built — they're felt"*
 
-- **User-Centered:** Every decision prioritizes user experience
-- **Performance-First:** Beautiful designs optimized for speed
-- **Accessibility:** WCAG compliance from day one
-- **Clean Code:** Maintainable, well-documented solutions, SOLID principles, DRY & KISS
-- **Adaptable:** Comfortable with modern React, static sites, or legacy codebases
+- **User-centered & accessible** — every decision starts from the person using it; WCAG from day one, never a final phase
+- **Performance-first** — beautiful designs that stay fast
+- **Clean code** — maintainable and documented for whoever comes next: SOLID, DRY & KISS
+- **Adaptable** — modern React, static sites, or legacy codebases
 
 ---
 
@@ -170,9 +152,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 
 ## Ideal Opportunities
 
-- Frontend roles with strong **design implementation & motion design** focus — custom interfaces, scroll-driven animations, micro-interactions
-- Studios / agencies building bespoke, design-led sites (pixel-perfect, custom layouts)
-- Product teams where UI quality, accessibility & performance matter
+- Frontend roles with strong **design implementation & motion design** focus — studios and agencies building bespoke, design-led sites, or product teams where UI quality, accessibility & performance matter
 - Teams with mentorship and growth potential
 
 <p align="center"><img src="assets/wave-divider.svg" width="100%" alt=""/></p>
