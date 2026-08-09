@@ -55,7 +55,7 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://spreent-academy-frontend.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/spreent-static.webp"/><img src="assets/spreent-teaser.gif" width="560" alt="Spreent Academy — scroll-through of the landing: hero parallax, magnetic CTA, paint-fill logo reveal"/></picture></a>
+  <a href="https://spreent-academy-frontend.vercel.app"><img src="assets/spreent-static.webp" width="640" alt="Spreent Academy landing page — click to open the live site"/></a>
 </p>
 
 | Project | Stack | Demo | Highlights |
