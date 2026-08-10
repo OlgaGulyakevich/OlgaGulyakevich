@@ -19,7 +19,7 @@
   📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; English · French · Russian
 </p>
 
-<p align="center"><img src="assets/wave-divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="assets/hairline-divider.svg" width="100%" alt=""/></p>
 
 ## Tech Stack & Proficiency
 
@@ -155,7 +155,7 @@ Fullscreen scroll-controlled experience with locked transitions, 13 choreographe
 - Frontend roles with strong **design implementation & motion design** focus — studios and agencies building bespoke, design-led sites, or product teams where UI quality, accessibility & performance matter
 - Teams with mentorship and growth potential
 
-<p align="center"><img src="assets/wave-divider.svg" width="100%" alt=""/></p>
+<p align="center"><img src="assets/hairline-divider.svg" width="100%" alt=""/></p>
 
 ## Get in Touch
 
