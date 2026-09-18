@@ -6,7 +6,7 @@ Hi 👋 I'm Olga — a frontend developer who cares as much about how an interfa
 
 I turn Figma files into fast, accessible interfaces in React, TypeScript and Astro — and when there's no Figma file, I design the thing myself. My focus is **motion with a job**: knowing where an animation helps, where it gets in the way, and where there shouldn't be any at all.
 
-Every project I ship comes with a documented UI kit page, and every motion effect is reduced-motion safe.
+Every project I ship comes with a documented UI kit page, and every animation in it is reduced-motion safe.
 
 Let's chat — [olga.gulyakevi4@gmail.com](mailto:olga.gulyakevi4@gmail.com)
 
