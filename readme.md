@@ -15,14 +15,8 @@ Let's chat — [olga.gulyakevi4@gmail.com](mailto:olga.gulyakevi4@gmail.com)
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olga-gulyakevich/" target="_blank"><img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="38" alt="Telegram"/></a>
-</p>
-
-<p align="center">
   📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;·&nbsp; English · French · Russian &nbsp;·&nbsp; open to frontend roles
 </p>
-
-<p align="center"><img src="assets/hairline-divider.svg" width="100%" alt=""/></p>
 
 ## Featured Projects
 
@@ -67,7 +61,7 @@ Pixel-perfect educational program landing — 4 Swiper configs, SVG mask shapes,
 
 [Live →](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui)
 
----
+<p align="center"><img src="assets/hairline-divider.svg" width="34%" alt=""/></p>
 
 ### UGC Creator Portfolio &nbsp; 🟡 in progress
 
@@ -75,11 +69,15 @@ Pixel-perfect educational program landing — 4 Swiper configs, SVG mask shapes,
 
 Freelance client project, built end to end: the client brought a business goal, everything else was mine — interface design, motion plan, implementation and deployment. Ships with its own `/ui-kit` page.
 
+<p align="center"><img src="assets/hairline-divider.svg" width="34%" alt=""/></p>
+
 ### Personal Portfolio &nbsp; 🟡 in progress
 
 *Next.js · TypeScript · Tailwind CSS*
 
 Will include a **Lab** section — a curated gallery of interaction and micro-animation demos, each with a note on when to use it and when not to.
+
+<p align="center"><img src="assets/hairline-divider.svg" width="34%" alt=""/></p>
 
 ### Mysterious Vacation &nbsp; 🟡 planned
 
