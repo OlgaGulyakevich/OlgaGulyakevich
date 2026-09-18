@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="58" viewBox="0 0 230 58" role="img" aria-label="Motion catalog">
+  <defs>
+    <!-- Apple-style fill: lighter at the top, brand blue at the bottom -->
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#3FB6FF"/>
+      <stop offset="0.55" stop-color="#22A9F4"/>
+      <stop offset="1"    stop-color="#007AFF"/>
+    </linearGradient>
+    <!-- Inner top highlight — the "glass" edge -->
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <!-- Coloured glow, not a grey shadow: that is what reads as Apple -->
+    <filter id="glow" x="-40%" y="-60%" width="180%" height="240%">
+      <feDropShadow dx="0" dy="3"  stdDeviation="5"   flood-color="#22A9F4" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="1"  stdDeviation="1.5" flood-color="#0059B3" flood-opacity="0.30"/>
+    </filter>
+  </defs>
+  <g filter="url(#glow)">
+    <rect x="9" y="7" width="212" height="42" rx="21" fill="url(#fill)"/>
+    <rect x="9.6" y="7.6" width="210.8" height="40.8" rx="20.4" fill="none" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.2"/>
+    <rect x="13" y="10" width="204" height="17" rx="8.5" fill="url(#gloss)"/>
+  </g>
+  <text x="115" y="33.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#FFFFFF">Motion catalog →</text>
+</svg>

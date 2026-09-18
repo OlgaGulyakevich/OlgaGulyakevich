@@ -1,167 +1,102 @@
-<h1 align="center">👋 Hi, I'm Olga Gulyakevich</h1>
-<h3 align="center">Frontend Developer &nbsp;·&nbsp; React · Next.js · TypeScript · GSAP</h3>
+<h1 align="center">Olga Gulyakevich</h1>
 
-<p align="center"><i>Transforming designs into accessible, performant web experiences —<br/>with thoughtful animations and attention to every step of the user journey.</i></p>
+<h3 align="center">Frontend Developer &nbsp;·&nbsp; React · Next.js · TypeScript · Motion &amp; Accessibility</h3>
+
+Hi 👋 I'm Olga — a frontend developer who cares as much about how an interface *feels* as about how it's built.
+
+I turn Figma files into fast, accessible interfaces in React, TypeScript and Astro — and when there's no Figma file, I design the thing myself. My focus is **motion with a job**: knowing where an animation helps, where it gets in the way, and where there shouldn't be any at all.
+
+Every project I ship comes with a documented UI kit page, and every motion effect is reduced-motion safe.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=800&color=C25E6B&center=true&vCenter=true&width=620&height=55&lines=PageSpeed%20100%20%C2%B7%20100%20%C2%B7%20100%20%C2%B7%20100;WCAG%20AA%20%E2%80%94%20accessibility%20from%20day%20one;Published%20npm%20package%20%E2%80%94%20optikit%20CLI;Motion%20with%20a%20job%2C%20never%20decoration;Open%20to%20frontend%20roles%20%E2%80%94%20let%27s%20talk" alt="PageSpeed 100/100/100/100 — WCAG AA accessibility from day one — published npm package optikit CLI — motion with a job, never decoration — open to frontend roles, let's talk" />
+  <a href="https://spreent-academy-frontend.vercel.app/ui-kit#motion"><img src="assets/btn-motion.svg" height="58" alt="Motion catalog"/></a>
 </p>
 
 <p align="center">
-  <a href="#" title="Portfolio — coming soon"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio"/></a>&nbsp;<a href="#" title="Download CV — coming soon"><img src="assets/btn-cv.svg" height="46" alt="My CV"/></a>
+  <a href="https://www.linkedin.com/in/olga-gulyakevich/" target="_blank"><img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="38" alt="Email"/></a>&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="38" alt="GitHub"/></a>&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="38" alt="Telegram"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank"><img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="38" alt="Email"/></a>&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="38" alt="GitHub"/></a>&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="38" alt="Telegram"/></a>
-</p>
-
-<p align="center">
-  📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;&nbsp;·&nbsp;&nbsp; English · French · Russian
+  📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;·&nbsp; English · French · Russian &nbsp;·&nbsp; open to frontend roles
 </p>
 
 <p align="center"><img src="assets/hairline-divider.svg" width="100%" alt=""/></p>
 
-## Tech Stack & Proficiency
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,sass,tailwind,vite" alt="Core stack: React, Next.js, Astro, TypeScript, Sass, Tailwind, Vite" />
-</p>
-
-> **Proficiency levels:** **Production** (built real projects) · **Working** (used, solid understanding) · **Learning** (actively studying) · **Familiar** (hands-on exposure)
-
-### **Modern Frontend**
-
-- **Production:** React (Hooks, Context), React Router, Next.js (App Router, SSR/SSG), Astro (Islands), TypeScript / JavaScript (ES6+), HTML5/CSS3 (Grid, Flexbox) — across SPA, SSR/SSG, MPA & static architectures
-- **Working:** Zustand, Context API, Zod, Vite, Webpack · **Learning:** TanStack Query, Feature-Sliced Design (FSD), Redux Toolkit
-
-### **Styling & Design**
-
-- **Core styling:** Sass/SCSS, BEM, Tailwind CSS, Styled Components, responsive / mobile-first · SVG masks & custom shapes, Defensive CSS, View Transition API
-- **Motion UI:** GPU-accelerated animations (transform/opacity only), scroll-driven & entrance animations, GSAP (ScrollTrigger, timelines), tactile micro-interactions, `prefers-reduced-motion` — always
-- **Design implementation:** Figma-to-code, design system development, motion design (user journey analysis), WCAG AA accessibility
-
-### **CMS & Integrations**
-
-- **Production:** CMS-ready markup (semantic HTML, content-editable zones) · **Working:** REST API integration
-- **Learning:** Headless CMS (Sanity, Payload) · **Familiar:** progressive enhancement, PHP & jQuery (legacy)
-
-### **Quality & Deployment**
-
-- **Testing:** Vitest/Jest, React Testing Library, Playwright (e2e + visual regression), BackstopJS, a11y audits, multi-stage linting
-- **Performance & deployment:** Lighthouse / PageSpeed up to 100, Core Web Vitals, Critical CSS, WebP pipelines, bundle optimization · GitHub Pages/Actions, Netlify, Vercel, npm publishing
-
----
-
 ## Featured Projects
 
 <p align="center">
-  <a href="https://spreent-academy-frontend.vercel.app"><img src="assets/spreent-static.webp" width="100%" alt="Spreent Academy landing page — click to open the live site"/></a>
+  <a href="https://spreent-academy-frontend.vercel.app"><img src="assets/spreent-static.webp" width="100%" alt="Spreent Academy — click to open the live site"/></a>
 </p>
 
-| Project | Stack | Demo | Highlights |
-| --------- | ------- | ------ | ------------ |
-| [**Spreent&nbsp;Academy**](https://github.com/OlgaGulyakevich/spreent-academy-frontend) | Astro · TypeScript (strict) · SCSS/BEM · Vitest · Playwright | [Live&nbsp;→](https://spreent-academy-frontend.vercel.app) | **PageSpeed 100 · 100 · 100 · 100** · 18 motion effects + [Motion catalog](https://spreent-academy-frontend.vercel.app/ui-kit#motion) · magnetic CTA · paint-fill logo · shimmer that fires only when the user hesitates · `prefers-reduced-motion` throughout |
-| [**optikit**](https://github.com/OlgaGulyakevich/optikit) | TypeScript (strict) · Node · Zod · Vitest | [npm&nbsp;→](https://www.npmjs.com/package/@gulyakevich/optikit) | CLI to optimize web assets (images, video, SVG, favicons, transparency trim) · 4 engines behind one type-safe `Tool<Job>` contract · Strategy (extensible) · Zod-validated boundaries · tested core |
-| [**Memory&nbsp;Game**](https://github.com/OlgaGulyakevich/memory-game) | React · React Router · Webpack · i18next | [Play&nbsp;→](https://olgagulyakevich.github.io/memory-game/) | **PageSpeed 100 · 100 · 100 · 100** · i18n EN/FR/RU · 3D card flip (`rotateY` + `preserve-3d`, GPU-only) · WCAG AA + `prefers-reduced-motion` · 115 KB gzipped, hand-split Webpack chunks |
+### Spreent Academy — design-led landing page
+
+*Astro · TypeScript (strict) · SCSS/BEM · Vitest · Playwright*
+
+**PageSpeed 100 · 100 · 100 · 100** with 18 motion effects running — every one guarded by `prefers-reduced-motion`. Ships with a public **[/ui-kit page](https://spreent-academy-frontend.vercel.app/ui-kit)** documenting the component set and each effect, including a shimmer that fires **only when the user hesitates** (IntersectionObserver + dwell detection + cancel-on-engage). Playwright in CI for e2e and visual regression.
+
+**[Live →](https://spreent-academy-frontend.vercel.app)** &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/spreent-academy-frontend)
+
+---
+
+### optikit — TypeScript CLI, published on npm
+
+*TypeScript (strict) · Node · Zod · Vitest*
+
+Optimises web assets — images (WebP/AVIF), video, SVG, favicons, transparency trim — behind one type-safe `Tool<Job>` contract. Strategy pattern for extensibility, Zod-validated boundaries, tested core. I use it on my own projects.
+
+**[npm →](https://www.npmjs.com/package/@gulyakevich/optikit)** &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/optikit)
+
+---
+
+### Memory Game — React application
+
+*React · React Router · Webpack · i18next*
+
+**PageSpeed 100 · 100 · 100 · 100** · trilingual EN/FR/RU · 3D card flip on `rotateY` + `preserve-3d`, GPU only · WCAG AA with `prefers-reduced-motion` · 115 KB gzipped with hand-split Webpack chunks.
+
+**[Play →](https://olgagulyakevich.github.io/memory-game/)** &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/memory-game)
 
 <details>
-<summary><b>Additional Projects & Work in Progress</b></summary>
+<summary><b>More projects &amp; work in progress</b></summary>
 
-### Also Shipped
+<br/>
 
-| Project | Stack | Demo | Highlights |
-| --------- | ------- | ------ | ------------ |
-| [**Internship&nbsp;Landing**](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui) | Vite · Vanilla JS · SCSS · Swiper.js | [Live&nbsp;→](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) | Pixel-perfect educational program landing · 4 Swiper configs · SVG mask shapes · sliding-window pagination · dynamic tabs |
+### Internship Landing
 
----
+*Vite · Vanilla JS · SCSS · Swiper.js*
 
-### Personal Portfolio v2.0
+Pixel-perfect educational program landing — 4 Swiper configs, SVG mask shapes, sliding-window pagination, dynamic tabs.
 
-*Next.js • TypeScript • Tailwind CSS • Payload*
-
-Will include a **Lab / Experiments** section — a curated gallery of interactive animation & micro-interaction demos (motion craft showcase).
-
-**Status:** 🟡 In Development (Launch: Q3 2026)
+[Live →](https://olgagulyakevich.github.io/internship-landing-responsive-ui/) &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/internship-landing-responsive-ui)
 
 ---
 
-### Upcoming Projects
+### UGC Creator Portfolio &nbsp; 🟡 in progress
 
-**Creative Agency Landing**
-*Vite • Vanilla JS • GSAP • SCSS*
-Animated landing page for a creative agency — scroll-driven animations, motion design, immersive UI. Private repository.
+*Astro · React 19 · TypeScript (strict) · Tailwind CSS 4*
 
-**UGC Creator Portfolio**
-*Next.js • TypeScript • Tailwind • Sanity*
-Freelance project — portfolio and landing page for a content creator client, with editable content via Sanity (headless CMS).
+Freelance client project, built end to end: the client brought a business goal, everything else was mine — interface design, motion plan, implementation and deployment. Ships with its own `/ui-kit` page.
 
-**Print & Photo Store**
-*Next.js • TypeScript • Supabase • Stripe*
-E-commerce project — online store for framed prints and photography. Full-stack build: Supabase auth & database, custom admin dashboard (product CRUD, orders), cart, checkout & Stripe payments.
+### Personal Portfolio &nbsp; 🟡 in progress
 
-**Mysterious Vacation — Advanced Animation Project**
-*Vanilla JS • CSS • SVG • Canvas • Three.js*
-Fullscreen scroll-controlled experience with locked transitions, 13 choreographed sequences: spring-physics list reveals, stagger chains, wheel-roll pagination, SVG path drawing & SMIL illustrations, Canvas low-level drawing, Three.js 3D scene with camera rig, cursor-reactive viewport, Post-Processing effects.
+*Next.js · TypeScript · Tailwind CSS*
+
+Will include a **Lab** section — a curated gallery of interaction and micro-animation demos, each with a note on when to use it and when not to.
+
+### Creative Agency Landing
+
+*Vite · Vanilla JS · GSAP · SCSS* — scroll-driven animation, immersive UI. Private repository.
 
 </details>
-
----
-
-## Development Philosophy
-
-> *"Great interfaces are not just built — they're felt"*
-
-- **User-centered & accessible** — every decision starts from the person using it; WCAG from day one, never a final phase
-- **Performance-first** — beautiful designs that stay fast
-- **Clean code** — maintainable and documented for whoever comes next: SOLID, DRY & KISS
-- **Adaptable** — modern React, static sites, or legacy codebases
-
----
-
-## Learning Journey & Experience
-
-### Experience
-
-- **Web Studio Internship** *(Oct 2025 – present)* — UI development across production client projects (promo site, travel companion platform, online course aggregator, and more):
-  - **Design implementation** — pixel-perfect build of Figma layouts across breakpoints
-  - **Reusable UI components** — accessible modals (focus trap, scroll-lock), custom selects, forms with inline validation, tabs, accordions, mega menu, pagination, tooltips, Swiper carousels — built with a consistent architecture in each client project
-  - **Complex UI logic** — multi-criteria filters, searchable tables with tooltips, sorting, robust pagination, responsive data cards
-  - **Motion & transitions** — GSAP animation sequences, View Transitions API, fine-tuned easing & timing, tactile micro-interactions built as reusable SCSS mixins (press/release button states)
-  - **Performance** — Lighthouse-audited optimizations: WebP/srcset image pipelines (incl. my own [optikit](https://www.npmjs.com/package/@gulyakevich/optikit) CLI), lazy loading, code-splitting, critical CSS, font loading
-  - **Project scaffolding** — Vite + Handlebars partials + SCSS architecture with multi-stage linting and pre-commit enforcement (Husky), enabling parallel team development
-  - **UX & accessibility** — audit-driven improvements: checkout simplified to 3 steps — read → select → continue (radio buttons over tab navigation); range sliders replaced with text inputs / range checkboxes for precise, accessible entry; WCAG AA fixes — keyboard navigation, focus management, ARIA labels
-  - **Client collaboration & QA** — presented finished solutions to clients; cross-browser & cross-device testing, fluid/responsive layouts (320–1920 px)
-
-### Education & Training
-
-- **MSc in Information and Computer Science** — Saint Petersburg State University of Aerospace Instrumentation (SUAI), 2009
-- **HTML Academy** *(Completed)* — Adaptive Layout, Web Interfaces, Automation & Tooling, JavaScript, React
-- **Codecademy Front-End Engineer Path** *(Completed)* — React, Redux, Testing, Deployment
-- **Whimsical Animations** *(In Progress)* — Josh W. Comeau — motion design, spring physics, delightful UI
-- **Animations on the Web** *(Upcoming)* — Emil Kowalski (animations.dev) — animation principles, Motion (Framer Motion), interruptible animations, performance & taste-driven product motion
-
-**Current Focus (2026):**
-
-- Advanced React architecture & design patterns
-- Protocols & networking (HTTP/HTTPS, WebSocket fundamentals)
-- Web security (OWASP Top 10, CSP, auth flows)
-- UI Engineering — Canvas, WebGL, Three.js
-
-**Goal:** Frontend developer role in Switzerland / EU · available from October 2026
-
----
-
-## Ideal Opportunities
-
-- Frontend roles with strong **design implementation & motion design** focus — studios and agencies building bespoke, design-led sites, or product teams where UI quality, accessibility & performance matter
-- Teams with mentorship and growth potential
 
 <p align="center"><img src="assets/hairline-divider.svg" width="100%" alt=""/></p>
 
 ## Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olga-gulyakevich-ab166674/" target="_blank"><img src="assets/ic-linkedin.svg" height="54" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="54" alt="Email"/></a>&nbsp;&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="54" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="54" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/olga-gulyakevich/" target="_blank"><img src="assets/ic-linkedin.svg" height="54" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="54" alt="Email"/></a>&nbsp;&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="54" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="54" alt="Telegram"/></a>
 </p>
 
-<p align="center"><i>Let's build something thoughtful, accessible and delightful together.</i></p>
+<p align="center">
+  Let's chat — <a href="mailto:olga.gulyakevi4@gmail.com">olga.gulyakevi4@gmail.com</a>
+</p>

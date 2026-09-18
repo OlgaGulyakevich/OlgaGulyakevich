@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 8" role="presentation" aria-hidden="true">
-  <!-- Hairline divider: wine-rose (#C25E6B) core dissolving to transparent at both ends.
-       Mid-tone on purpose — a deep burgundy disappears on GitHub's dark theme.
+  <!-- Hairline divider: Apple system blue (#007AFF) core dissolving to transparent at both ends.
+       Mid-tone on purpose — passes contrast on GitHub's light AND dark themes.
        Rendered ~1.5px tall in GitHub's ~890px column. -->
   <defs>
     <linearGradient id="hairline" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#C25E6B" stop-opacity="0"/>
-      <stop offset="0.18" stop-color="#C25E6B" stop-opacity="0.35"/>
-      <stop offset="0.5" stop-color="#C25E6B" stop-opacity="1"/>
-      <stop offset="0.82" stop-color="#C25E6B" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#C25E6B" stop-opacity="0"/>
+      <stop offset="0"    stop-color="#007AFF" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#22A9F4" stop-opacity="0.35"/>
+      <stop offset="0.5"  stop-color="#22A9F4" stop-opacity="1"/>
+      <stop offset="0.82" stop-color="#22A9F4" stop-opacity="0.35"/>
+      <stop offset="1"    stop-color="#007AFF" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect x="0" y="3" width="1200" height="2" fill="url(#hairline)"/>
