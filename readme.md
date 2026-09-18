@@ -8,12 +8,14 @@ I turn Figma files into fast, accessible interfaces in React, TypeScript and Ast
 
 Every project I ship comes with a documented UI kit page, and every motion effect is reduced-motion safe.
 
+Let's chat — [olga.gulyakevi4@gmail.com](mailto:olga.gulyakevi4@gmail.com)
+
 <p align="center">
   <a href="https://spreent-academy-frontend.vercel.app/ui-kit#motion"><img src="assets/btn-motion.svg" height="58" alt="Motion catalog"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olga-gulyakevich/" target="_blank"><img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="38" alt="Email"/></a>&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="38" alt="GitHub"/></a>&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="38" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/olga-gulyakevich/" target="_blank"><img src="assets/ic-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="38" alt="Telegram"/></a>
 </p>
 
 <p align="center">
@@ -32,6 +34,8 @@ Every project I ship comes with a documented UI kit page, and every motion effec
 
 **[Live →](https://spreent-academy-frontend.vercel.app)** &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/spreent-academy-frontend)
 
+<p align="center"><img src="assets/hairline-divider.svg" width="34%" alt=""/></p>
+
 ### optikit — TypeScript CLI, published on npm
 
 *TypeScript (strict) · Node · Zod · Vitest*
@@ -39,6 +43,8 @@ Every project I ship comes with a documented UI kit page, and every motion effec
 Optimises web assets — images (WebP/AVIF), video, SVG, favicons, transparency trim — behind one type-safe `Tool<Job>` contract. Strategy pattern for extensibility, Zod-validated boundaries, tested core. I use it on my own projects.
 
 **[npm →](https://www.npmjs.com/package/@gulyakevich/optikit)** &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/optikit)
+
+<p align="center"><img src="assets/hairline-divider.svg" width="34%" alt=""/></p>
 
 ### Memory Game — React application
 
@@ -75,18 +81,10 @@ Freelance client project, built end to end: the client brought a business goal, 
 
 Will include a **Lab** section — a curated gallery of interaction and micro-animation demos, each with a note on when to use it and when not to.
 
-### Creative Agency Landing
+### Mysterious Vacation &nbsp; 🟡 planned
 
-*Vite · Vanilla JS · GSAP · SCSS* — scroll-driven animation, immersive UI. Private repository.
+*Vanilla JS · CSS · SVG · Canvas · Three.js*
+
+Fullscreen scroll-controlled experience with locked transitions and 13 choreographed sequences: spring-physics list reveals, stagger chains, wheel-roll pagination, SVG path drawing with SMIL, low-level Canvas drawing, a Three.js scene with camera rig and post-processing, cursor-reactive viewport.
 
 </details>
-
-<p align="center"><img src="assets/hairline-divider.svg" width="100%" alt=""/></p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/olga-gulyakevich/" target="_blank"><img src="assets/ic-linkedin.svg" height="54" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="54" alt="Email"/></a>&nbsp;&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="54" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="54" alt="Telegram"/></a>
-</p>
-
-<p align="center">
-  Let's chat — <a href="mailto:olga.gulyakevi4@gmail.com">olga.gulyakevi4@gmail.com</a>
-</p>
