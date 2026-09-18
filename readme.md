@@ -24,10 +24,6 @@ Every project I ship comes with a documented UI kit page, and every motion effec
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://spreent-academy-frontend.vercel.app"><img src="assets/spreent-static.webp" width="100%" alt="Spreent Academy — click to open the live site"/></a>
-</p>
-
 ### Spreent Academy — design-led landing page
 
 *Astro · TypeScript (strict) · SCSS/BEM · Vitest · Playwright*
@@ -36,8 +32,6 @@ Every project I ship comes with a documented UI kit page, and every motion effec
 
 **[Live →](https://spreent-academy-frontend.vercel.app)** &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/spreent-academy-frontend)
 
----
-
 ### optikit — TypeScript CLI, published on npm
 
 *TypeScript (strict) · Node · Zod · Vitest*
@@ -45,8 +39,6 @@ Every project I ship comes with a documented UI kit page, and every motion effec
 Optimises web assets — images (WebP/AVIF), video, SVG, favicons, transparency trim — behind one type-safe `Tool<Job>` contract. Strategy pattern for extensibility, Zod-validated boundaries, tested core. I use it on my own projects.
 
 **[npm →](https://www.npmjs.com/package/@gulyakevich/optikit)** &nbsp;·&nbsp; [Code →](https://github.com/OlgaGulyakevich/optikit)
-
----
 
 ### Memory Game — React application
 
@@ -90,8 +82,6 @@ Will include a **Lab** section — a curated gallery of interaction and micro-an
 </details>
 
 <p align="center"><img src="assets/hairline-divider.svg" width="100%" alt=""/></p>
-
-## Get in Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olga-gulyakevich/" target="_blank"><img src="assets/ic-linkedin.svg" height="54" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:olga.gulyakevi4@gmail.com"><img src="assets/ic-email.svg" height="54" alt="Email"/></a>&nbsp;&nbsp;<a href="https://github.com/OlgaGulyakevich" target="_blank"><img src="assets/ic-github.svg" height="54" alt="GitHub"/></a>&nbsp;&nbsp;<a href="https://t.me/OlgaGulyakevich" target="_blank"><img src="assets/ic-telegram.svg" height="54" alt="Telegram"/></a>
