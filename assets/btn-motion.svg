@@ -24,5 +24,11 @@
     <rect x="14" y="10" width="212" height="42" rx="21" fill="url(#gloss)"/>
     <rect x="14.7" y="10.7" width="210.6" height="40.6" rx="20.3" fill="none" stroke="url(#rim)" stroke-width="1.4"/>
   </g>
-  <text x="120" y="36.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#FFFFFF">Motion catalog<tspan font-size="18" font-weight="400" dx="6">→</tspan></text>
+  <text x="108.25" y="36.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#FFFFFF">Motion catalog</text>
+  <!-- Стрелка рисуется path, а не глифом →. Глиф выравнивается по математической
+       оси шрифта: при font-size 18 на общей базовой линии с текстом 14px он вставал
+       на 1.25px выше центра кнопки. Шрифт здесь — читателя (GitHub рендерит нашим
+       font-family только если он есть в системе), поэтому подгонять dy бессмысленно:
+       на Windows и Linux метрики другие. Path не зависит от шрифта. Центр y = 31. -->
+  <path d="M177.75 31h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
