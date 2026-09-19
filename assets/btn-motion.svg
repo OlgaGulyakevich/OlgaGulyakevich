@@ -29,6 +29,8 @@
        оси шрифта: при font-size 18 на общей базовой линии с текстом 14px он вставал
        на 1.25px выше центра кнопки. Шрифт здесь — читателя (GitHub рендерит нашим
        font-family только если он есть в системе), поэтому подгонять dy бессмысленно:
-       на Windows и Linux метрики другие. Path не зависит от шрифта. Центр y = 31. -->
-  <path d="M177.75 31h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+       на Windows и Linux метрики другие. Path не зависит от шрифта.
+       Центр y = 32.5 — это центр x-height строчных букв, а НЕ центр кнопки (31):
+       в "Motion catalog" строчных 11 из 14, глаз меряет стрелку по ним. -->
+  <path d="M177.75 32.5h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
