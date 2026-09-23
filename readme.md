@@ -2,9 +2,7 @@
 
 <h3 align="center">Frontend Developer &nbsp;·&nbsp; React · Next.js · TypeScript · Motion &amp; Accessibility</h3>
 
-Hi 👋 I'm Olga. I build interfaces, and I care most about the parts nobody specs — hover, focus, the empty state, what happens while you wait.
-
-Plain CSS is my default. A motion library earns its place in four cases — interruptible gestures, spring physics, FLIP layout transitions, and motion that has to stay in sync across elements. Everything else runs on the compositor, and the browser does that better than I can.
+Hi 👋 I'm Olga. I build interfaces, and I'm unreasonably curious about why some of them feel right and others don't.
 
 Let's chat — [olga.gulyakevi4@gmail.com](mailto:olga.gulyakevi4@gmail.com)
 
