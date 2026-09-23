@@ -1,50 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="236" height="66" viewBox="2 1 236 66" role="img" aria-label="Motion catalog">
-  <!-- Холст = плашка + место под тень, СО ВСЕХ ЧЕТЫРЁХ СТОРОН.
-       Плашка x14..226, y10..52. Дальняя тень dy3/blur4 расходится на 3×blur=12px
-       во все стороны и на 12+dy=15px вниз. Отсюда запас 12/12/9/15 и viewBox "2 1 236 66".
-       Обрежешь холст «по видимому» — срежешь тень по бокам, и на белом это читается как рамка.
-       Пять слоёв одного источника света — visual/raised-surface.md, разбор кнопки animations.dev.
-       Цвета из Motion Passport: заливка #FF633C. Порядок слоёв важен: ринг ниже волоска. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="71" viewBox="0 -1 240 71" role="img" aria-label="Motion catalog">
+  <!-- Пять слоёв одного источника света — visual/raised-surface.md, тёмный рецепт.
+       На тёмной заливке роль «ринга в тон» играет не цвет, а белый свет 8%; волосок не нужен.
+       Цвета из Motion Passport, чёрная обложка: заливка #2F2E33, подпись #A8AAB0 (5.4:1).
+       Холст = плашка + запас под тень со всех сторон: 3×blur=12, +dy вниз. Обрежешь — срежешь тень. -->
   <defs>
     <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FF8A6D"/>
-      <stop offset="1" stop-color="#FF633C"/>
+      <stop offset="0" stop-color="#45444A"/>
+      <stop offset="1" stop-color="#2F2E33"/>
     </linearGradient>
+    <!-- блик затухает книзу: свет падает сверху, внизу у предмета тень -->
     <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0"   stop-color="#FFFFFF" stop-opacity="0.34"/>
-      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.08"/>
-      <stop offset="1"   stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0"    stop-color="#FFFFFF" stop-opacity="0.16"/>
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="1"    stop-color="#FFFFFF" stop-opacity="0"/>
     </linearGradient>
     <clipPath id="pill">
       <rect x="14" y="10" width="212" height="42" rx="21"/>
     </clipPath>
+    <!-- в CSS блик записан `inset 0 0 1px 1px` — третье число размытие.
+         Жёсткий stroke читается как обводка, поэтому размываем и обрезаем формой. -->
     <filter id="soft" x="-20%" y="-40%" width="140%" height="180%" color-interpolation-filters="sRGB">
       <feGaussianBlur stdDeviation="1"/>
     </filter>
     <filter id="drop" x="-40%" y="-80%" width="180%" height="300%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="1" stdDeviation="1"   flood-color="#6B2409" flood-opacity="0.14"/>
-      <feDropShadow dx="0" dy="3" stdDeviation="4"   flood-color="#6B2409" flood-opacity="0.16"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#0E0E0E" flood-opacity="0.18"/>
+      <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#0E0E0E" flood-opacity="0.14"/>
     </filter>
   </defs>
 
-  <!-- 5 · тени, тёплые: предмет отбрасывает тень своего цвета -->
+  <!-- 5 · две тени: ближняя сажает, дальняя поднимает -->
   <g filter="url(#drop)">
     <rect x="14" y="10" width="212" height="42" rx="21" fill="url(#fill)"/>
   </g>
 
-  <!-- 3 · ринг в тон: светлота между низом (0.305) и верхом (0.403) -->
-  <rect x="13.5" y="9.5" width="213" height="43" rx="21.5" fill="none" stroke="#FF7049" stroke-width="1"/>
+  <!-- 3 · ринг: на тёмной заливке это свет, а не цвет -->
+  <rect x="13.5" y="9.5" width="213" height="43" rx="21.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1"/>
 
-  <!-- 4 · тёмный волосок: контактная линия, сажает предмет на страницу -->
-  <rect x="13.5" y="9.5" width="213" height="43" rx="21.5" fill="none" stroke="#3A1206" stroke-opacity="0.08" stroke-width="1"/>
-
-  <!-- 2 · inset-блик: в CSS это `inset 0 0 1px 1px` — третье число размытие.
-       Жёсткий stroke читается как обводка, поэтому блик размыт и обрезан формой кнопки.
-       И затухает книзу: свет падает сверху, внизу его быть не должно. -->
+  <!-- 2 · inset-блик по верхней кромке -->
   <g clip-path="url(#pill)" filter="url(#soft)">
     <rect x="14.9" y="10.9" width="210.2" height="40.2" rx="20.1" fill="none" stroke="url(#edge)" stroke-width="2"/>
   </g>
 
-  <text x="108.25" y="36.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#331005">Motion catalog</text>
-  <path d="M177.75 32.5h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#5A2110" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="108.25" y="36.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#A8AAB0">Motion catalog</text>
+  <path d="M177.75 32.5h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#A8AAB0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
