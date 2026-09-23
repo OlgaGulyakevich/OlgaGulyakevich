@@ -16,4 +16,4 @@ Let's chat — [olga.gulyakevi4@gmail.com](mailto:olga.gulyakevi4@gmail.com)
 <br/>
 <br/>
 
-📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;·&nbsp; English · French · Russian &nbsp;·&nbsp; open to frontend roles
+📍 Gland, Vaud, Switzerland 🇨🇭 &nbsp;·&nbsp; English · French · Russian &nbsp;·&nbsp; Open to frontend roles
