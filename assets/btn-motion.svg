@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="71" viewBox="0 -1 240 71" role="img" aria-label="Motion catalog">
   <!-- Пять слоёв одного источника света — visual/raised-surface.md, тёмный рецепт.
        На тёмной заливке роль «ринга в тон» играет не цвет, а белый свет 8%; волосок не нужен.
-       Цвета из Motion Passport, чёрная обложка: заливка #353439, подпись #ABB0C1 — холодный серый с синим подтоном (5.8:1).
+       Цвета из Motion Passport, чёрная обложка: заливка #353439, подпись #D2D6E0 — холодный серый, поднят с паспортного #ABB0C1 ради 14px кегля (8.6:1).
        Холст = плашка + запас под тень со всех сторон: 3×blur=12, +dy вниз. Обрежешь — срежешь тень. -->
   <defs>
     <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
@@ -41,6 +41,6 @@
     <rect x="14.9" y="10.9" width="210.2" height="40.2" rx="20.1" fill="none" stroke="url(#edge)" stroke-width="2"/>
   </g>
 
-  <text x="108.25" y="36.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#ABB0C1">Motion catalog</text>
-  <path d="M177.75 32.5h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#ABB0C1" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="108.25" y="36.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#D2D6E0">Motion catalog</text>
+  <path d="M177.75 32.5h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#D2D6E0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
