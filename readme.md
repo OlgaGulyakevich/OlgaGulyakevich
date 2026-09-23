@@ -10,7 +10,7 @@ Let's chat — [olga.gulyakevi4@gmail.com](mailto:olga.gulyakevi4@gmail.com)
 <br/>
 
 <p align="center">
-  <a href="https://spreent-academy-frontend.vercel.app/ui-kit#motion"><img src="assets/btn-motion.svg" height="56" alt="Motion catalog"/></a>
+  <a href="https://spreent-academy-frontend.vercel.app/ui-kit#motion"><img src="assets/btn-motion.svg" height="70" alt="Motion catalog"/></a>
 </p>
 
 <br/>

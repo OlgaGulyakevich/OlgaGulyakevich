@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="224" height="56" viewBox="8 4 224 56" role="img" aria-label="Motion catalog">
-  <!-- Пять слоёв одного источника света — visual/raised-surface.md, разбор кнопки animations.dev.
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="70" viewBox="8 2 224 70" role="img" aria-label="Motion catalog">
+  <!-- Холст = плашка + место под тень. Плашка y 10..52, дальняя тень dy3/blur4 доходит до y 67.
+       Обрежешь холст «по видимому» — срежешь тень: она рисуется за краем формы.
+       Пять слоёв одного источника света — visual/raised-surface.md, разбор кнопки animations.dev.
        Цвета из Motion Passport: заливка #FF633C. Порядок слоёв важен: ринг ниже волоска. -->
   <defs>
     <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
@@ -19,7 +21,7 @@
     </filter>
     <filter id="drop" x="-40%" y="-80%" width="180%" height="300%" color-interpolation-filters="sRGB">
       <feDropShadow dx="0" dy="1" stdDeviation="1"   flood-color="#6B2409" flood-opacity="0.14"/>
-      <feDropShadow dx="0" dy="4" stdDeviation="5"   flood-color="#6B2409" flood-opacity="0.16"/>
+      <feDropShadow dx="0" dy="3" stdDeviation="4"   flood-color="#6B2409" flood-opacity="0.16"/>
     </filter>
   </defs>
 
