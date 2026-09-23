@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="56" viewBox="8 4 224 56" role="img" aria-label="Motion catalog">
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4FBCFF"/><stop offset="1" stop-color="#0A84FF"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.40"/>
+      <stop offset="0.38" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="0.62" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-60%" width="180%" height="260%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.8" flood-color="#062E57" flood-opacity="0.30"/>
+      
+    </filter>
+  </defs>
+  <!-- Отделка по принципу invisible details (Emil Kowalski), 22.09.2026:
+       было — цветной ореол stdDeviation 5 при opacity .45, граница 1.4px, глянцевый
+       блик 40% сверху. Ореол светился раньше самой кнопки, блик читался как глянец
+       из 2010-х. Стало: блик убран полностью, тень короткая и тёмная (dy 1.5, blur 1.8),
+       граница ровно 1px. Press-состояние недостижимо — GitHub вырезает CSS из README. -->
+  <g filter="url(#glow)">
+    <rect x="14" y="10" width="212" height="42" rx="21" fill="url(#fill)"/>
+    
+    <rect x="14.5" y="10.5" width="211" height="41" rx="20.5" fill="none" stroke="url(#rim)" stroke-width="1"/>
+  </g>
+  <text x="108.25" y="36.5" text-anchor="middle" font-family="'Segoe UI',Verdana,Geneva,'DejaVu Sans',sans-serif" font-size="14" font-weight="600" letter-spacing="0.4" fill="#FFFFFF">Motion catalog</text>
+  <!-- Стрелка рисуется path, а не глифом →. Глиф выравнивается по математической
+       оси шрифта: при font-size 18 на общей базовой линии с текстом 14px он вставал
+       на 1.25px выше центра кнопки. Шрифт здесь — читателя (GitHub рендерит нашим
+       font-family только если он есть в системе), поэтому подгонять dy бессмысленно:
+       на Windows и Linux метрики другие. Path не зависит от шрифта.
+       Центр y = 32.5 — это центр x-height строчных букв, а НЕ центр кнопки (31):
+       в "Motion catalog" строчных 11 из 14, глаз меряет стрелку по ним. -->
+  <path d="M177.75 32.5h13m-3.4-3.4 3.4 3.4-3.4 3.4" fill="none" stroke="#FFFFFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
