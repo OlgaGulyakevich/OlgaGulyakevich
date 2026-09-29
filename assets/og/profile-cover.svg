@@ -1,49 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Olga Gulyakevich — Frontend Developer">
-  <!-- Палитра Motion Passport. Глубина: атмосферное свечение + шар бренда за правым краем
-       + виньетка + зерно. Композиция своя — сетка и лого в углу это вёрстка курса. -->
+  <!-- Обложка OG, 28.09.2026: шар S3 на геометрии прежней (cx1078 cy340 r216), имя Instrument Serif 92px — вес как у старой Helvetica 600. Старая — *.blue-helvetica.bak. Шар плоский, как в формуле; свечение двухтонное — голубое сверху, тёплое снизу, по гауссу -->
+  <style>@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif&amp;family=Inter:wght@400;500;600&amp;display=block");</style>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2A292D"/>
-      <stop offset="1" stop-color="#3A3943"/>
-    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A292D"/><stop offset="1" stop-color="#3A3943"/></linearGradient>
+    
+<linearGradient id="s3base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#BDF6FF"/><stop offset="1" stop-color="#3FB2F5"/></linearGradient>
+<linearGradient id="s3cream" x1="0" y1="0" x2="1" y2="1"><stop offset="20%" stop-color="#FFEAD8" stop-opacity="0.0"/><stop offset="25.2%" stop-color="#FFEAD8" stop-opacity="0.013"/><stop offset="30.3%" stop-color="#FFEAD8" stop-opacity="0.05"/><stop offset="35.5%" stop-color="#FFEAD8" stop-opacity="0.11"/><stop offset="40.7%" stop-color="#FFEAD8" stop-opacity="0.187"/><stop offset="45.8%" stop-color="#FFEAD8" stop-opacity="0.278"/><stop offset="51.0%" stop-color="#FFEAD8" stop-opacity="0.375"/><stop offset="56.2%" stop-color="#FFEAD8" stop-opacity="0.472"/><stop offset="61.3%" stop-color="#FFEAD8" stop-opacity="0.562"/><stop offset="66.5%" stop-color="#FFEAD8" stop-opacity="0.64"/><stop offset="71.7%" stop-color="#FFEAD8" stop-opacity="0.7"/><stop offset="76.8%" stop-color="#FFEAD8" stop-opacity="0.737"/><stop offset="82%" stop-color="#FFEAD8" stop-opacity="0.75"/></linearGradient>
+<linearGradient id="s3warm" x1="0" y1="0" x2="1" y2="1"><stop offset="40%" stop-color="#FF7C54" stop-opacity="0.0"/><stop offset="45.0%" stop-color="#FF7C54" stop-opacity="0.014"/><stop offset="50.0%" stop-color="#FF7C54" stop-opacity="0.057"/><stop offset="55.0%" stop-color="#FF7C54" stop-opacity="0.124"/><stop offset="60.0%" stop-color="#FF7C54" stop-opacity="0.212"/><stop offset="65.0%" stop-color="#FF7C54" stop-opacity="0.315"/><stop offset="70.0%" stop-color="#FF7C54" stop-opacity="0.425"/><stop offset="75.0%" stop-color="#FF7C54" stop-opacity="0.535"/><stop offset="80.0%" stop-color="#FF7C54" stop-opacity="0.637"/><stop offset="85.0%" stop-color="#FF7C54" stop-opacity="0.726"/><stop offset="90.0%" stop-color="#FF7C54" stop-opacity="0.793"/><stop offset="95.0%" stop-color="#FF7C54" stop-opacity="0.836"/><stop offset="100%" stop-color="#FF7C54" stop-opacity="0.85"/></linearGradient>
 
-    <!-- шар: паспортный циан → паспортный синий, диагональю как в фавиконке -->
-    <linearGradient id="orb" x1=".06" y1=".04" x2=".94" y2=".96">
-      <stop offset="0"   stop-color="#C6F9FF"/>
-      <stop offset=".46" stop-color="#7FD4F7"/>
-      <stop offset="1"   stop-color="#25AAF3"/>
-    </linearGradient>
-
-    <!-- атмосферное свечение. Восемь остановок по гауссовой кривой:
-         линейный спад в ноль даёт излом производной, и глаз видит край (полосы Маха). -->
-    <radialGradient id="halo" cx=".5" cy=".5" r=".5">
-      <stop offset="0" stop-color="#5FC0EE" stop-opacity="0.300"/>
-      <stop offset="0.14" stop-color="#5FC0EE" stop-opacity="0.270"/>
-      <stop offset="0.28" stop-color="#5FC0EE" stop-opacity="0.216"/>
-      <stop offset="0.42" stop-color="#5FC0EE" stop-opacity="0.153"/>
-      <stop offset="0.55" stop-color="#5FC0EE" stop-opacity="0.099"/>
-      <stop offset="0.68" stop-color="#5FC0EE" stop-opacity="0.057"/>
-      <stop offset="0.8" stop-color="#5FC0EE" stop-opacity="0.027"/>
-      <stop offset="0.9" stop-color="#5FC0EE" stop-opacity="0.011"/>
-      <stop offset="1" stop-color="#5FC0EE" stop-opacity="0.000"/>
-    </radialGradient>
-
-    <!-- стекло: блик по верхней кромке шара, затухает книзу -->
-    <linearGradient id="sheen" x1="0" y1="0" x2=".3" y2="1">
-      <stop offset="0"   stop-color="#FFFFFF" stop-opacity=".40"/>
-      <stop offset=".42" stop-color="#FFFFFF" stop-opacity=".08"/>
-      <stop offset="1"   stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
-
-    <radialGradient id="vig" cx=".42" cy=".44" r=".82">
-      <stop offset="0.4" stop-color="#000000" stop-opacity="0.00"/>
-      <stop offset="0.58" stop-color="#000000" stop-opacity="0.03"/>
-      <stop offset="0.72" stop-color="#000000" stop-opacity="0.09"/>
-      <stop offset="0.84" stop-color="#000000" stop-opacity="0.18"/>
-      <stop offset="0.93" stop-color="#000000" stop-opacity="0.27"/>
-      <stop offset="1" stop-color="#000000" stop-opacity="0.34"/>
-    </radialGradient>
-
+    <radialGradient id="haloCool" cx=".5" cy=".5" r=".5"><stop offset="0.000" stop-color="#5FC0EE" stop-opacity="0.260"/><stop offset="0.125" stop-color="#5FC0EE" stop-opacity="0.242"/><stop offset="0.250" stop-color="#5FC0EE" stop-opacity="0.196"/><stop offset="0.375" stop-color="#5FC0EE" stop-opacity="0.138"/><stop offset="0.500" stop-color="#5FC0EE" stop-opacity="0.084"/><stop offset="0.625" stop-color="#5FC0EE" stop-opacity="0.045"/><stop offset="0.750" stop-color="#5FC0EE" stop-opacity="0.021"/><stop offset="0.875" stop-color="#5FC0EE" stop-opacity="0.008"/><stop offset="1.000" stop-color="#5FC0EE" stop-opacity="0.000"/></radialGradient>
+    <radialGradient id="haloWarm" cx=".5" cy=".5" r=".5"><stop offset="0.000" stop-color="#FF9A6E" stop-opacity="0.200"/><stop offset="0.125" stop-color="#FF9A6E" stop-opacity="0.186"/><stop offset="0.250" stop-color="#FF9A6E" stop-opacity="0.151"/><stop offset="0.375" stop-color="#FF9A6E" stop-opacity="0.106"/><stop offset="0.500" stop-color="#FF9A6E" stop-opacity="0.065"/><stop offset="0.625" stop-color="#FF9A6E" stop-opacity="0.034"/><stop offset="0.750" stop-color="#FF9A6E" stop-opacity="0.016"/><stop offset="0.875" stop-color="#FF9A6E" stop-opacity="0.006"/><stop offset="1.000" stop-color="#FF9A6E" stop-opacity="0.000"/></radialGradient>
+    <radialGradient id="vig" cx=".42" cy=".44" r=".82"><stop offset="0.4" stop-color="#000" stop-opacity="0"/><stop offset="0.58" stop-color="#000" stop-opacity="0.03"/><stop offset="0.72" stop-color="#000" stop-opacity="0.09"/><stop offset="0.84" stop-color="#000" stop-opacity="0.18"/><stop offset="0.93" stop-color="#000" stop-opacity="0.27"/><stop offset="1" stop-color="#000" stop-opacity="0.34"/></radialGradient>
     <filter id="grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
       <feColorMatrix type="saturate" values="0"/>
@@ -51,26 +18,23 @@
   </defs>
 
   <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1010" cy="250" r="470" fill="url(#haloCool)"/>
+  <circle cx="1130" cy="470" r="420" fill="url(#haloWarm)"/>
 
   <!-- шар уходит за правый край: часть предмета вне кадра = глубина -->
-  <circle cx="1078" cy="340" r="560" fill="url(#halo)"/>
-  <g>
-    <circle cx="1078" cy="340" r="216" fill="url(#orb)"/>
-    <circle cx="1078" cy="340" r="216" fill="url(#sheen)"/>
-    <circle cx="1078" cy="340" r="215.4" fill="none" stroke="#FFFFFF" stroke-opacity=".22" stroke-width="1.2"/>
-  </g>
+  <circle cx="1078" cy="340" r="216" fill="url(#s3base)"/>
+  <circle cx="1078" cy="340" r="216" fill="url(#s3cream)"/>
+  <circle cx="1078" cy="340" r="216" fill="url(#s3warm)"/>
 
   <rect width="1200" height="630" fill="url(#vig)"/>
   <rect width="1200" height="630" filter="url(#grain)" opacity=".075"/>
 
-  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" text-rendering="geometricPrecision">
-    <text x="94" y="250" font-size="78" font-weight="600" letter-spacing="-1.6" fill="#EDEFF4">Olga Gulyakevich</text>
-    <!-- акцентная метка: цельная и короткая. Имя стоит на x=94, а не 96 —
-         оптическая компенсация: круглая O при равной координате кажется утопленной -->
-    <rect x="96" y="290" width="124" height="4" rx="2" fill="#FF633C"/>
-    <text x="96" y="358" font-size="36" font-weight="500" letter-spacing="-0.2" fill="#B9BECC">Frontend Developer</text>
-    <text x="96" y="410" font-size="27" font-weight="400" letter-spacing="0.1" fill="#949AAA">React · Next.js · TypeScript · Astro</text>
-    <text x="96" y="452" font-size="27" font-weight="400" letter-spacing="0.1" fill="#949AAA">Motion · Accessibility · Design systems</text>
-    <text x="96" y="520" font-size="24" font-weight="400" letter-spacing="0.2" fill="#7A7F8E">Gland, Vaud, Switzerland</text>
+  <g text-rendering="geometricPrecision">
+    <text x="92" y="254" font-family="'Instrument Serif',serif" font-size="92" letter-spacing="-0.5" fill="#EDEFF4">Olga Gulyakevich</text>
+    <rect x="96" y="302" width="124" height="4" rx="2" fill="#FF633C"/>
+    <text x="96" y="358" font-family="'Inter',sans-serif" font-size="36" font-weight="500" letter-spacing="-0.2" fill="#B9BECC">Frontend Developer</text>
+    <text x="96" y="410" font-family="'Inter',sans-serif" font-size="27" font-weight="400" letter-spacing="0.1" fill="#949AAA">React · Next.js · Astro · TypeScript</text>
+    <text x="96" y="452" font-family="'Inter',sans-serif" font-size="27" font-weight="400" letter-spacing="0.1" fill="#949AAA">Motion · Accessibility · Design systems</text>
+    <text x="96" y="520" font-family="'Inter',sans-serif" font-size="24" font-weight="400" letter-spacing="0.2" fill="#7A7F8E">Gland, Vaud, Switzerland</text>
   </g>
 </svg>
