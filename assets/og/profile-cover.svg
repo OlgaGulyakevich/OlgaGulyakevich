@@ -1,15 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Olga Gulyakevich — Frontend Developer">
-  <!-- Обложка OG, 28.09.2026: шар S3 на геометрии прежней (cx1078 cy340 r216), имя Instrument Serif 92px — вес как у старой Helvetica 600. Старая — *.blue-helvetica.bak. Шар плоский, как в формуле; свечение двухтонное — голубое сверху, тёплое снизу, по гауссу -->
+  <!-- Обложка OG, 31.10.2026: шар S3 заменён аватаром «gulyakevi.ch», тёплое свечение и метка под именем #F2A88C, в тон персику шара (ярко-оранжевая читалась вторым, чужим акцентом); шар повёрнут на 55°. Прежняя — *.s3-ball.bak. Ниже история 28.09: шар S3 на геометрии прежней (cx1078 cy340 r216), имя Instrument Serif 92px — вес как у старой Helvetica 600. Старая — *.blue-helvetica.bak. Шар плоский, как в формуле; свечение двухтонное — голубое сверху, тёплое снизу, по гауссу -->
   <style>@import url("https://fonts.googleapis.com/css2?family=Instrument+Serif&amp;family=Inter:wght@400;500;600&amp;display=block");</style>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A292D"/><stop offset="1" stop-color="#3A3943"/></linearGradient>
     
-<linearGradient id="s3base" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#BDF6FF"/><stop offset="1" stop-color="#3FB2F5"/></linearGradient>
-<linearGradient id="s3cream" x1="0" y1="0" x2="1" y2="1"><stop offset="20%" stop-color="#FFEAD8" stop-opacity="0.0"/><stop offset="25.2%" stop-color="#FFEAD8" stop-opacity="0.013"/><stop offset="30.3%" stop-color="#FFEAD8" stop-opacity="0.05"/><stop offset="35.5%" stop-color="#FFEAD8" stop-opacity="0.11"/><stop offset="40.7%" stop-color="#FFEAD8" stop-opacity="0.187"/><stop offset="45.8%" stop-color="#FFEAD8" stop-opacity="0.278"/><stop offset="51.0%" stop-color="#FFEAD8" stop-opacity="0.375"/><stop offset="56.2%" stop-color="#FFEAD8" stop-opacity="0.472"/><stop offset="61.3%" stop-color="#FFEAD8" stop-opacity="0.562"/><stop offset="66.5%" stop-color="#FFEAD8" stop-opacity="0.64"/><stop offset="71.7%" stop-color="#FFEAD8" stop-opacity="0.7"/><stop offset="76.8%" stop-color="#FFEAD8" stop-opacity="0.737"/><stop offset="82%" stop-color="#FFEAD8" stop-opacity="0.75"/></linearGradient>
-<linearGradient id="s3warm" x1="0" y1="0" x2="1" y2="1"><stop offset="40%" stop-color="#FF7C54" stop-opacity="0.0"/><stop offset="45.0%" stop-color="#FF7C54" stop-opacity="0.014"/><stop offset="50.0%" stop-color="#FF7C54" stop-opacity="0.057"/><stop offset="55.0%" stop-color="#FF7C54" stop-opacity="0.124"/><stop offset="60.0%" stop-color="#FF7C54" stop-opacity="0.212"/><stop offset="65.0%" stop-color="#FF7C54" stop-opacity="0.315"/><stop offset="70.0%" stop-color="#FF7C54" stop-opacity="0.425"/><stop offset="75.0%" stop-color="#FF7C54" stop-opacity="0.535"/><stop offset="80.0%" stop-color="#FF7C54" stop-opacity="0.637"/><stop offset="85.0%" stop-color="#FF7C54" stop-opacity="0.726"/><stop offset="90.0%" stop-color="#FF7C54" stop-opacity="0.793"/><stop offset="95.0%" stop-color="#FF7C54" stop-opacity="0.836"/><stop offset="100%" stop-color="#FF7C54" stop-opacity="0.85"/></linearGradient>
+    <!-- аватар «gulyakevi.ch» (CV/templates/logo/avatar-gulyakevi-ch.svg), перенесён как есть: координаты 80×80, масштаб в группе -->
+    <linearGradient id="gkg" gradientTransform="rotate(16 0.5 0.5)"><stop offset="0" stop-color="#BDF6FF"/><stop offset="1" stop-color="#3FB2F5"/></linearGradient>
+    <filter id="gkf" filterUnits="userSpaceOnUse" x="-60" y="-60" width="200" height="200" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="13"/></filter>
+    <filter id="gko" filterUnits="userSpaceOnUse" x="-300" y="-300" width="700" height="700" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="26"/></filter>
+    <mask id="gkm" maskUnits="userSpaceOnUse" x="0" y="0" width="80" height="80"><rect width="80" height="80" rx="160" fill="#fff"/></mask>
 
     <radialGradient id="haloCool" cx=".5" cy=".5" r=".5"><stop offset="0.000" stop-color="#5FC0EE" stop-opacity="0.260"/><stop offset="0.125" stop-color="#5FC0EE" stop-opacity="0.242"/><stop offset="0.250" stop-color="#5FC0EE" stop-opacity="0.196"/><stop offset="0.375" stop-color="#5FC0EE" stop-opacity="0.138"/><stop offset="0.500" stop-color="#5FC0EE" stop-opacity="0.084"/><stop offset="0.625" stop-color="#5FC0EE" stop-opacity="0.045"/><stop offset="0.750" stop-color="#5FC0EE" stop-opacity="0.021"/><stop offset="0.875" stop-color="#5FC0EE" stop-opacity="0.008"/><stop offset="1.000" stop-color="#5FC0EE" stop-opacity="0.000"/></radialGradient>
-    <radialGradient id="haloWarm" cx=".5" cy=".5" r=".5"><stop offset="0.000" stop-color="#FF9A6E" stop-opacity="0.200"/><stop offset="0.125" stop-color="#FF9A6E" stop-opacity="0.186"/><stop offset="0.250" stop-color="#FF9A6E" stop-opacity="0.151"/><stop offset="0.375" stop-color="#FF9A6E" stop-opacity="0.106"/><stop offset="0.500" stop-color="#FF9A6E" stop-opacity="0.065"/><stop offset="0.625" stop-color="#FF9A6E" stop-opacity="0.034"/><stop offset="0.750" stop-color="#FF9A6E" stop-opacity="0.016"/><stop offset="0.875" stop-color="#FF9A6E" stop-opacity="0.006"/><stop offset="1.000" stop-color="#FF9A6E" stop-opacity="0.000"/></radialGradient>
+    <radialGradient id="haloWarm" cx=".5" cy=".5" r=".5"><stop offset="0.000" stop-color="#F2A88C" stop-opacity="0.200"/><stop offset="0.125" stop-color="#F2A88C" stop-opacity="0.186"/><stop offset="0.250" stop-color="#F2A88C" stop-opacity="0.151"/><stop offset="0.375" stop-color="#F2A88C" stop-opacity="0.106"/><stop offset="0.500" stop-color="#F2A88C" stop-opacity="0.065"/><stop offset="0.625" stop-color="#F2A88C" stop-opacity="0.034"/><stop offset="0.750" stop-color="#F2A88C" stop-opacity="0.016"/><stop offset="0.875" stop-color="#F2A88C" stop-opacity="0.006"/><stop offset="1.000" stop-color="#F2A88C" stop-opacity="0.000"/></radialGradient>
     <radialGradient id="vig" cx=".42" cy=".44" r=".82"><stop offset="0.4" stop-color="#000" stop-opacity="0"/><stop offset="0.58" stop-color="#000" stop-opacity="0.03"/><stop offset="0.72" stop-color="#000" stop-opacity="0.09"/><stop offset="0.84" stop-color="#000" stop-opacity="0.18"/><stop offset="0.93" stop-color="#000" stop-opacity="0.27"/><stop offset="1" stop-color="#000" stop-opacity="0.34"/></radialGradient>
     <filter id="grain" x="0" y="0" width="100%" height="100%">
       <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
@@ -22,16 +24,23 @@
   <circle cx="1130" cy="470" r="420" fill="url(#haloWarm)"/>
 
   <!-- шар уходит за правый край: часть предмета вне кадра = глубина -->
-  <circle cx="1078" cy="340" r="216" fill="url(#s3base)"/>
-  <circle cx="1078" cy="340" r="216" fill="url(#s3cream)"/>
-  <circle cx="1078" cy="340" r="216" fill="url(#s3warm)"/>
+  <!-- 80 → 432: scale 5.4, центр 1078/340 — геометрия 28.09 не тронута. rotate 55: шар уходит за правый край, без поворота тёплое пятно аватара оказывалось за кадром -->
+  <g transform="translate(862 124) scale(5.4) rotate(55 40 40)">
+    <g mask="url(#gkm)">
+      <rect width="80" height="80" fill="url(#gkg)"/>
+      <g transform="translate(2 2) rotate(32 40 40) scale(1.25)">
+        <path filter="url(#gkf)" fill="#FFEAD8" d="M32.414 59.35L50.376 70.5H72.5v-71H33.728L26.5 13.381l19.057 27.08L32.414 59.35z"/>
+        <path filter="url(#gko)" fill="#FF7C54" opacity="0.9" transform="translate(45.2 39.8) scale(0.5) translate(-50 -35)" d="M32.414 59.35L50.376 70.5H72.5v-71H33.728L26.5 13.381l19.057 27.08L32.414 59.35z"/>
+      </g>
+    </g>
+  </g>
 
   <rect width="1200" height="630" fill="url(#vig)"/>
   <rect width="1200" height="630" filter="url(#grain)" opacity=".075"/>
 
   <g text-rendering="geometricPrecision">
     <text x="92" y="254" font-family="'Instrument Serif',serif" font-size="92" letter-spacing="-0.5" fill="#EDEFF4">Olga Gulyakevich</text>
-    <rect x="96" y="302" width="124" height="4" rx="2" fill="#FF633C"/>
+    <rect x="96" y="302" width="124" height="4" rx="2" fill="#F2A88C"/>
     <text x="96" y="358" font-family="'Inter',sans-serif" font-size="36" font-weight="500" letter-spacing="-0.2" fill="#B9BECC">Frontend Developer</text>
     <text x="96" y="410" font-family="'Inter',sans-serif" font-size="27" font-weight="400" letter-spacing="0.1" fill="#949AAA">React · Next.js · Astro · TypeScript</text>
     <text x="96" y="452" font-family="'Inter',sans-serif" font-size="27" font-weight="400" letter-spacing="0.1" fill="#949AAA">Motion · Accessibility · Design systems</text>
