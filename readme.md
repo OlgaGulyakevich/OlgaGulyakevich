@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Olga, a frontend developer who's unreasonably curious about why some interfaces feel right and others don't.
+I'm Olga, a design engineer who's unreasonably curious about why some interfaces feel right and others don't.
 
 I design and build websites and web&nbsp;apps, with a focus on motion, accessibility, design&nbsp;systems and modern&nbsp;CSS. When there's a Figma&nbsp;file, I work from it. When there isn't, I design in code.
 
